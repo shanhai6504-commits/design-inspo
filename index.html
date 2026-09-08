@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>设计灵感墙 · Design Inspiration</title>
+<style>
+  :root {
+    --bg:#0d0f12; --panel:#15181d; --line:#23272e; --text:#e8eaed;
+    --muted:#9aa0a6; --accent:#f39917; --accent2:#002fa7;
+  }
+  * { box-sizing:border-box; margin:0; padding:0; }
+  html,body { background:var(--bg); color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+    -webkit-font-smoothing:antialiased; }
+  .wrap { max-width:1240px; margin:0 auto; padding:48px 24px 96px; }
+  header { padding:40px 0 8px; }
+  header .kicker { color:var(--accent); font-size:13px; letter-spacing:.18em;
+    text-transform:uppercase; margin-bottom:10px; font-weight:600; }
+  header h1 { font-size:clamp(28px,5vw,46px); font-weight:800; letter-spacing:-.02em; }
+  header p.sub { color:var(--muted); margin-top:12px; font-size:15px; line-height:1.6; max-width:640px; }
+  .meta { margin-top:18px; color:var(--muted); font-size:13px; }
+  .meta b { color:var(--text); }
+  .grid { display:grid; gap:22px; margin-top:36px;
+    grid-template-columns:repeat(auto-fill,minmax(340px,1fr)); }
+  .card { position:relative; border-radius:14px; overflow:hidden; background:var(--panel);
+    border:1px solid var(--line); cursor:pointer; transition:transform .25s,border-color .25s,box-shadow .25s; }
+  .card:hover,.card:focus { transform:translateY(-4px); border-color:#3a4048;
+    box-shadow:0 12px 40px rgba(0,0,0,.5); }
+  .shot { aspect-ratio:16/10; background-size:cover; background-position:top center;
+    transition:transform .5s ease; }
+  .card:hover .shot { transform:scale(1.04); }
+  .shot.empty { display:flex; align-items:center; justify-content:center;
+    color:var(--muted); background:#1b1f25; }
+  .card-overlay { position:absolute; inset:0; padding:18px 20px;
+    background:linear-gradient(to top,rgba(7,9,12,.96) 0%,rgba(7,9,12,.72) 45%,rgba(7,9,12,0) 80%);
+    opacity:0; transform:translateY(8px); transition:opacity .28s,transform .28s;
+    display:flex; flex-direction:column; justify-content:flex-end; gap:8px; }
+  .card:hover .card-overlay,.card:focus .card-overlay { opacity:1; transform:translateY(0); }
+  .card-name { font-size:20px; font-weight:700; letter-spacing:-.01em; }
+  .card-analysis,.card-desc { font-size:13px; color:#c3c8cf; line-height:1.55; }
+  .swatches { display:flex; gap:6px; flex-wrap:wrap; }
+  .swatch { width:18px; height:18px; border-radius:5px; border:1px solid rgba(255,255,255,.14); }
+  .detail-row { display:flex; align-items:center; gap:8px; margin-top:2px; }
+  .detail-row .k { color:var(--muted); font-size:12px; white-space:nowrap; }
+  .font-chip { font-size:11px; color:#c3c8cf; background:rgba(255,255,255,.08);
+    padding:2px 7px; border-radius:5px; }
+  .visit { align-self:flex-start; margin-top:4px; font-size:13px; font-weight:600;
+    color:var(--accent); text-decoration:none; }
+  .visit:hover { text-decoration:underline; }
+  .card-tags { position:absolute; left:12px; top:12px; right:12px; display:flex;
+    gap:6px; flex-wrap:wrap; }
+  .tag { font-size:11px; color:#e8eaed; background:rgba(13,15,18,.62);
+    backdrop-filter:blur(4px); padding:3px 9px; border-radius:20px;
+    border:1px solid rgba(255,255,255,.12); }
+  .card-idx { margin-left:auto; font-size:11px; color:rgba(255,255,255,.55); }
+  footer { margin-top:56px; color:var(--muted); font-size:12px; text-align:center;
+    border-top:1px solid var(--line); padding-top:24px; }
+  @media (max-width:560px) { .grid { grid-template-columns:1fr; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="kicker">Curated Design Inspiration</div>
+    <h1>设计灵感墙</h1>
+    <p class="sub">精选全球优秀的、酷炫的、前沿的网站案例。悬停卡片查看设计分析与配色提取；持续自动更新。</p>
+    <div class="meta">共 <b>4</b> 个案例 · 更新于 <b>2026-09-07 16:36</b></div>
+  </header>
+  <div class="grid">
+
+    <article class="card" tabindex="0">
+      <div class="shot" style="background-image:url('assets/screenshots/godly-website.png')"></div>
+      <div class="card-overlay">
+        <h3 class="card-name">Godly</h3>
+        <p class="card-analysis">全球顶尖网页设计灵感画廊。收录大量沉浸式滚动动效、大胆的字体排版与高对比配色案例，是判断「当前网页设计风向」的标杆站点。</p>
+        
+        <div class="swatches"><span class="swatch" style="background:#158989" title="#158989"></span><span class="swatch" style="background:#81abeb" title="#81abeb"></span><span class="swatch" style="background:#279494" title="#279494"></span><span class="swatch" style="background:#359b9c" title="#359b9c"></span><span class="swatch" style="background:#ebdbc8" title="#ebdbc8"></span></div>
+        
+        <a class="visit" href="https://godly.website/" target="_blank" rel="noopener">访问站点 ↗</a>
+      </div>
+      <div class="card-tags"><span class="tag">灵感画廊</span><span class="tag">网页设计</span><span class="tag">动效</span><span class="tag">排版</span><span class="card-idx">#godly-website</span></div>
+    </article>
+
+    <article class="card" tabindex="0">
+      <div class="shot" style="background-image:url('assets/screenshots/unicorn-studio.png')"></div>
+      <div class="card-overlay">
+        <h3 class="card-name">Unicorn Studio</h3>
+        <p class="card-analysis">面向创意前端的 WebGL 动效工具/案例库。首页即是一组炫目的实时着色器与粒子动效，代表「生成艺术 + 交互动效」在商业网页里的最新应用方式。</p>
+        <p class="card-desc">Create interactive motion and real-time graphics for the web. Stack layers on a real-time canvas, shape them with effects and motion, expose</p>
+        <div class="swatches"><span class="swatch" style="background:#474789" title="#474789"></span><span class="swatch" style="background:#894949" title="#894949"></span><span class="swatch" style="background:#973635" title="#973635"></span><span class="swatch" style="background:#ab3535" title="#ab3535"></span><span class="swatch" style="background:#3333aa" title="#3333aa"></span></div>
+        
+        <a class="visit" href="https://www.unicorn.studio/" target="_blank" rel="noopener">访问站点 ↗</a>
+      </div>
+      <div class="card-tags"><span class="tag">WebGL</span><span class="tag">动效</span><span class="tag">创意技术</span><span class="card-idx">#unicorn-studio</span></div>
+    </article>
+
+    <article class="card" tabindex="0">
+      <div class="shot" style="background-image:url('assets/screenshots/reactbits.png')"></div>
+      <div class="card-overlay">
+        <h3 class="card-name">React Bits</h3>
+        <p class="card-analysis">开源的 React 动效组件库（你项目里正在用）。首页用「实时可交互的动画组件」作为展示，代表了微交互、粒子、文字动效等 UI 细节的前沿做法。</p>
+        <p class="card-desc">An open source collection of high quality, animated, interactive &amp; fully customizable React components for building stunning, memorable </p>
+        <div class="swatches"><span class="swatch" style="background:#391566" title="#391566"></span><span class="swatch" style="background:#341558" title="#341558"></span><span class="swatch" style="background:#451b76" title="#451b76"></span><span class="swatch" style="background:#291448" title="#291448"></span><span class="swatch" style="background:#2d1153" title="#2d1153"></span></div>
+        <div class="detail-row"><span class="k">CSS 配色</span><span class="swatch" style="background:120f17" title="120f17"></span></div>
+        <a class="visit" href="https://reactbits.dev/" target="_blank" rel="noopener">访问站点 ↗</a>
+      </div>
+      <div class="card-tags"><span class="tag">组件库</span><span class="tag">动画</span><span class="tag">React</span><span class="tag">UI</span><span class="card-idx">#reactbits</span></div>
+    </article>
+
+    <article class="card" tabindex="0">
+      <div class="shot" style="background-image:url('assets/screenshots/reactbits-pro.png')"></div>
+      <div class="card-overlay">
+        <h3 class="card-name">React Bits Pro</h3>
+        <p class="card-analysis">React Bits 的 Pro 进阶版，提供更复杂的 3D、着色器与高级动效组件，是「商业级前端动效组件」的高质量样本。</p>
+        <p class="card-desc">134 animated React components, 238 page blocks, 300 app UI blocks, 11 templates and an AI Agent Kit. One-time payment, lifetime updates.</p>
+        <div class="swatches"><span class="swatch" style="background:#784877" title="#784877"></span><span class="swatch" style="background:#775877" title="#775877"></span><span class="swatch" style="background:#372438" title="#372438"></span><span class="swatch" style="background:#763a75" title="#763a75"></span><span class="swatch" style="background:#482747" title="#482747"></span></div>
+        <div class="detail-row"><span class="k">CSS 配色</span><span class="swatch" style="background:ffffff" title="ffffff"></span><span class="swatch" style="background:0a0a0a" title="0a0a0a"></span><span class="swatch" style="background:5227ff" title="5227ff"></span><span class="swatch" style="background:7b5cff" title="7b5cff"></span><span class="swatch" style="background:a78bfa" title="a78bfa"></span><span class="swatch" style="background:c4b5fd" title="c4b5fd"></span></div>
+        <a class="visit" href="https://pro.reactbits.dev/" target="_blank" rel="noopener">访问站点 ↗</a>
+      </div>
+      <div class="card-tags"><span class="tag">组件库</span><span class="tag">动画</span><span class="tag">React</span><span class="tag">Pro</span><span class="card-idx">#reactbits-pro</span></div>
+    </article>
+  </div>
+  <footer>Design Inspiration Gallery · 自动采集 + GitHub Pages 托管</footer>
+</div>
+</body>
+</html>

@@ -1,0 +1,133 @@
+{
+  "updated_at": "2026-09-07 16:36",
+  "sites": [
+    {
+      "id": "godly-website",
+      "name": "Godly",
+      "url": "https://godly.website/",
+      "orig_url": "https://godly.design/",
+      "tags": [
+        "灵感画廊",
+        "网页设计",
+        "动效",
+        "排版"
+      ],
+      "note": "全球优秀网站灵感集，现已跳转至 recent.design",
+      "analysis": "全球顶尖网页设计灵感画廊。收录大量沉浸式滚动动效、大胆的字体排版与高对比配色案例，是判断「当前网页设计风向」的标杆站点。",
+      "screenshot": "screenshots/godly-website.png",
+      "title": "",
+      "description": "",
+      "fonts": [],
+      "css_colors": [],
+      "og_image": "",
+      "fetch_error": "<urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+      "colors": [
+        "#158989",
+        "#81abeb",
+        "#279494",
+        "#359b9c",
+        "#ebdbc8"
+      ],
+      "captured_at": "2026-09-07 16:32",
+      "elapsed_s": 9.2
+    },
+    {
+      "id": "unicorn-studio",
+      "name": "Unicorn Studio",
+      "url": "https://www.unicorn.studio/",
+      "orig_url": "https://www.unicorn.studio/dashboard",
+      "tags": [
+        "WebGL",
+        "动效",
+        "创意技术"
+      ],
+      "note": "你给的是登录后的 dashboard，已改截公开首页",
+      "analysis": "面向创意前端的 WebGL 动效工具/案例库。首页即是一组炫目的实时着色器与粒子动效，代表「生成艺术 + 交互动效」在商业网页里的最新应用方式。",
+      "screenshot": "screenshots/unicorn-studio.png",
+      "title": "Unicorn Studio — Interactive Motion &amp; Real-Time Graphics",
+      "description": "Create interactive motion and real-time graphics for the web. Stack layers on a real-time canvas, shape them with effects and motion, expose controls, and ship.",
+      "fonts": [],
+      "css_colors": [],
+      "og_image": "https://www.unicorn.studio/images/ogg2.png",
+      "fetch_error": "",
+      "colors": [
+        "#474789",
+        "#894949",
+        "#973635",
+        "#ab3535",
+        "#3333aa"
+      ],
+      "captured_at": "2026-09-07 16:32",
+      "elapsed_s": 1.3
+    },
+    {
+      "id": "reactbits",
+      "name": "React Bits",
+      "url": "https://reactbits.dev/",
+      "orig_url": "https://reactbits.dev/get-started/index",
+      "tags": [
+        "组件库",
+        "动画",
+        "React",
+        "UI"
+      ],
+      "note": "你给的是文档页，已改截首页（动画 showcase 更直观）",
+      "analysis": "开源的 React 动效组件库（你项目里正在用）。首页用「实时可交互的动画组件」作为展示，代表了微交互、粒子、文字动效等 UI 细节的前沿做法。",
+      "screenshot": "screenshots/reactbits.png",
+      "title": "React Bits - Animated UI Components For React",
+      "description": "An open source collection of high quality, animated, interactive & fully customizable React components for building stunning, memorable user interfaces.",
+      "fonts": [],
+      "css_colors": [
+        "120f17"
+      ],
+      "og_image": "https://reactbits.dev/og.png",
+      "fetch_error": "",
+      "colors": [
+        "#391566",
+        "#341558",
+        "#451b76",
+        "#291448",
+        "#2d1153"
+      ],
+      "captured_at": "2026-09-07 16:36",
+      "elapsed_s": 64.3
+    },
+    {
+      "id": "reactbits-pro",
+      "name": "React Bits Pro",
+      "url": "https://pro.reactbits.dev/",
+      "orig_url": "https://pro.reactbits.dev/docs/components",
+      "tags": [
+        "组件库",
+        "动画",
+        "React",
+        "Pro"
+      ],
+      "note": "已去掉追踪参数，改截首页",
+      "analysis": "React Bits 的 Pro 进阶版，提供更复杂的 3D、着色器与高级动效组件，是「商业级前端动效组件」的高质量样本。",
+      "screenshot": "screenshots/reactbits-pro.png",
+      "title": "React Bits Pro | Animated React Components, Blocks &amp; Templates",
+      "description": "134 animated React components, 238 page blocks, 300 app UI blocks, 11 templates and an AI Agent Kit. One-time payment, lifetime updates.",
+      "fonts": [],
+      "css_colors": [
+        "ffffff",
+        "0a0a0a",
+        "5227ff",
+        "7b5cff",
+        "a78bfa",
+        "c4b5fd"
+      ],
+      "og_image": "https://pro.reactbits.dev/og.png?v=2",
+      "fetch_error": "",
+      "colors": [
+        "#784877",
+        "#775877",
+        "#372438",
+        "#763a75",
+        "#482747"
+      ],
+      "captured_at": "2026-09-07 16:32",
+      "elapsed_s": 2.4
+    }
+  ]
+}
