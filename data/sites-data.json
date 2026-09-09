@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09 11:12",
+  "updated_at": "2026-09-09 13:49",
   "sites": [
     {
       "id": "godly-website",
@@ -31,8 +31,8 @@
         "#b79896",
         "#b9ad8d"
       ],
-      "captured_at": "2026-09-09 11:11",
-      "elapsed_s": 12.3
+      "captured_at": "2026-09-09 13:45",
+      "elapsed_s": 6.7
     },
     {
       "id": "unicorn-studio",
@@ -60,8 +60,8 @@
         "#7c5ad3",
         "#8562db"
       ],
-      "captured_at": "2026-09-09 11:11",
-      "elapsed_s": 2.3
+      "captured_at": "2026-09-09 13:45",
+      "elapsed_s": 1.9
     },
     {
       "id": "reactbits",
@@ -92,8 +92,8 @@
         "#291448",
         "#2d1153"
       ],
-      "captured_at": "2026-09-09 11:11",
-      "elapsed_s": 3.0
+      "captured_at": "2026-09-09 13:45",
+      "elapsed_s": 2.8
     },
     {
       "id": "reactbits-pro",
@@ -129,8 +129,8 @@
         "#773975",
         "#362538"
       ],
-      "captured_at": "2026-09-09 11:11",
-      "elapsed_s": 5.6
+      "captured_at": "2026-09-09 13:45",
+      "elapsed_s": 3.2
     },
     {
       "id": "huy-phan",
@@ -173,8 +173,8 @@
         "#808080",
         "#d7d7d7"
       ],
-      "captured_at": "2026-09-09 11:11",
-      "elapsed_s": 3.1
+      "captured_at": "2026-09-09 13:46",
+      "elapsed_s": 14.7
     },
     {
       "id": "illoca-unseen",
@@ -210,8 +210,8 @@
         "#3b60c5",
         "#dfd5c0"
       ],
-      "captured_at": "2026-09-09 11:11",
-      "elapsed_s": 2.7
+      "captured_at": "2026-09-09 13:46",
+      "elapsed_s": 2.8
     },
     {
       "id": "merlin-studio",
@@ -240,8 +240,8 @@
       "og_image": "https://merlin.studio/images/merlin-studio.gif",
       "fetch_error": "",
       "colors": [],
-      "captured_at": "2026-09-09 11:11",
-      "elapsed_s": 2.8
+      "captured_at": "2026-09-09 13:46",
+      "elapsed_s": 1.6
     },
     {
       "id": "sadu-media",
@@ -268,8 +268,191 @@
       "og_image": "https://www.sadumedia.com/wp-content/uploads/2025/06/og-image.jpg",
       "fetch_error": "",
       "colors": [],
-      "captured_at": "2026-09-09 11:12",
-      "elapsed_s": 3.3
+      "captured_at": "2026-09-09 13:46",
+      "elapsed_s": 2.9
+    },
+    {
+      "id": "counter-forms",
+      "name": "Counter Forms",
+      "url": "https://counter-forms.com",
+      "orig_url": "https://counter-forms.com",
+      "tags": [
+        "工作室",
+        "排版",
+        "字体",
+        "极简"
+      ],
+      "note": "来源：自主搜集",
+      "analysis": "以字体与排版为核心的设计工作室，界面极简、字距与层级精心控制，是「文字即设计」的典范。",
+      "screenshot": "screenshots/counter-forms.png",
+      "title": "Counter Forms",
+      "description": "Counter Forms is a new typographic venture that seeks to champion young, discursive, Antipodean type designers.",
+      "fonts": [
+        "Passenger Regular",
+        "Pantasia Regular",
+        "CounterFormsLoading",
+        "Herbik ExtraBold",
+        "Herbik ExtraBold Italic",
+        "Telas Regular"
+      ],
+      "css_colors": [],
+      "og_image": "",
+      "fetch_error": "",
+      "colors": [
+        "#332d42",
+        "#383247",
+        "#9599a9",
+        "#8997a8",
+        "#b9aa98"
+      ],
+      "captured_at": "2026-09-09 13:46",
+      "elapsed_s": 12.5
+    },
+    {
+      "id": "snohetta",
+      "name": "Snøhetta",
+      "url": "https://www.snohetta.com",
+      "orig_url": "https://www.snohetta.com",
+      "tags": [
+        "建筑",
+        "设计",
+        "品牌",
+        "沉浸式"
+      ],
+      "note": "来源：自主搜集",
+      "analysis": "挪威传奇建筑与设计事务所官网。大图沉浸式叙事 + 克制的信息层级，把建筑作品集做得像展览。",
+      "screenshot": "screenshots/snohetta.png",
+      "title": "Snøhetta",
+      "description": "Snøhetta is a global transdisciplinary practice. Creating places for societies to connect with each other and with the world around them is a primary motivation in our work. Dialogue and diversity empower this approach.",
+      "fonts": [],
+      "css_colors": [
+        "5bbad5",
+        "000000",
+        "ffffff"
+      ],
+      "og_image": "https://snohetta.b-cdn.net/uploads/images/thumbnail_2025.jpg?width=1200&height=630&format=jpg&quality=85&crop=1920%2C1008%2C0%2C36",
+      "fetch_error": "",
+      "colors": [
+        "#000000",
+        "#131313",
+        "#fbfbfb",
+        "#acacac",
+        "#e3e3e3"
+      ],
+      "captured_at": "2026-09-09 13:46",
+      "elapsed_s": 8.9
+    },
+    {
+      "id": "shopify-design",
+      "name": "Shopify Design",
+      "url": "https://shopify.design",
+      "orig_url": "https://shopify.design",
+      "tags": [
+        "品牌",
+        "设计系统",
+        "大厂",
+        "产品"
+      ],
+      "note": "来源：自主搜集",
+      "analysis": "Shopify 设计团队的门户，展示大厂设计文化、设计系统与工具，是「设计团队品牌化」的标杆。",
+      "screenshot": null,
+      "title": "Shopify Design",
+      "description": "The Shopify Design team — Designing the future of agentic commerce. Experiments, ideas, and the people behind the craft.",
+      "fonts": [],
+      "css_colors": [
+        "fff",
+        "ffffff",
+        "000000",
+        "ffaac7",
+        "1c3b36",
+        "4f2730"
+      ],
+      "og_image": "",
+      "fetch_error": "",
+      "colors": [],
+      "captured_at": "2026-09-09 13:48",
+      "elapsed_s": 92.6
+    },
+    {
+      "id": "mobbin",
+      "name": "Mobbin",
+      "url": "https://mobbin.com",
+      "orig_url": "https://mobbin.com",
+      "tags": [
+        "UI参考",
+        "设计灵感",
+        "产品",
+        "App"
+      ],
+      "note": "来源：自主搜集",
+      "analysis": "全球最大的 App/网页 UI 参考库之一。产品本身设计精美，收录海量真实应用截图，UI 设计师的日常灵感来源。",
+      "screenshot": "screenshots/mobbin.png",
+      "title": "Mobbin — UI &amp; UX design inspiration for mobile &amp; web apps",
+      "description": "Save hours of UI &amp; UX research with our library of 400,000+ fully searchable mobile &amp; web app screenshots.",
+      "fonts": [
+        "sans-serif",
+        "var(--font-family)",
+        "var(--framer-font-family)",
+        "var(--framer-link-font-family",
+        "var(--framer-font-family))",
+        "var(--framer-link-hover-font-family"
+      ],
+      "css_colors": [
+        "000",
+        "141414",
+        "fff",
+        "adadad",
+        "0065ff",
+        "ce2b04"
+      ],
+      "og_image": "https://framerusercontent.com/assets/FE3uqmxi41SxsiiVq9JNJC1Pwc.png",
+      "fetch_error": "",
+      "colors": [
+        "#5432eb",
+        "#fefefe",
+        "#141414",
+        "#ababab",
+        "#e6e6e6"
+      ],
+      "captured_at": "2026-09-09 13:48",
+      "elapsed_s": 47.9
+    },
+    {
+      "id": "refokus",
+      "name": "Refokus",
+      "url": "https://www.refokus.com",
+      "orig_url": "https://www.refokus.com",
+      "tags": [
+        "代理",
+        "B2B",
+        "品牌",
+        "Web开发"
+      ],
+      "note": "来源：自主搜集",
+      "analysis": "专注 B2B 科技创业公司的品牌与网页设计代理。动效克制、面向转化的设计，是服务型机构官网的参考。",
+      "screenshot": "screenshots/refokus.png",
+      "title": "Branding &amp; Web Design for B2B Tech Startups | Refokus",
+      "description": "",
+      "fonts": [],
+      "css_colors": [
+        "7542ff",
+        "0b0911",
+        "0f1215",
+        "ffffff",
+        "7542ff",
+        "323237"
+      ],
+      "og_image": "",
+      "fetch_error": "",
+      "colors": [
+        "#0f1215",
+        "#1b1b1c",
+        "#0a0d0f",
+        "#fafafa",
+        "#c6c7c8"
+      ],
+      "captured_at": "2026-09-09 13:49",
+      "elapsed_s": 48.8
     }
   ]
 }

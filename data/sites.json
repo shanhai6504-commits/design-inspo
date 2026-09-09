@@ -67,6 +67,46 @@
       "tags": ["影视制作", "品牌", "视觉", "中东"],
       "note": "来源：Awwwards 精选（自主搜集）",
       "analysis": "沙特获奖影视制作公司官网，浓郁的地域文化风格 + 电影级视觉呈现，是「影视/制作类品牌」做高级官网的参考。"
+    },
+    {
+      "id": "counter-forms",
+      "name": "Counter Forms",
+      "url": "https://counter-forms.com",
+      "tags": ["工作室", "排版", "字体", "极简"],
+      "note": "来源：自主搜集",
+      "analysis": "以字体与排版为核心的设计工作室，界面极简、字距与层级精心控制，是「文字即设计」的典范。"
+    },
+    {
+      "id": "snohetta",
+      "name": "Snøhetta",
+      "url": "https://www.snohetta.com",
+      "tags": ["建筑", "设计", "品牌", "沉浸式"],
+      "note": "来源：自主搜集",
+      "analysis": "挪威传奇建筑与设计事务所官网。大图沉浸式叙事 + 克制的信息层级，把建筑作品集做得像展览。"
+    },
+    {
+      "id": "shopify-design",
+      "name": "Shopify Design",
+      "url": "https://shopify.design",
+      "tags": ["品牌", "设计系统", "大厂", "产品"],
+      "note": "来源：自主搜集",
+      "analysis": "Shopify 设计团队的门户，展示大厂设计文化、设计系统与工具，是「设计团队品牌化」的标杆。"
+    },
+    {
+      "id": "mobbin",
+      "name": "Mobbin",
+      "url": "https://mobbin.com",
+      "tags": ["UI参考", "设计灵感", "产品", "App"],
+      "note": "来源：自主搜集",
+      "analysis": "全球最大的 App/网页 UI 参考库之一。产品本身设计精美，收录海量真实应用截图，UI 设计师的日常灵感来源。"
+    },
+    {
+      "id": "refokus",
+      "name": "Refokus",
+      "url": "https://www.refokus.com",
+      "tags": ["代理", "B2B", "品牌", "Web开发"],
+      "note": "来源：自主搜集",
+      "analysis": "专注 B2B 科技创业公司的品牌与网页设计代理。动效克制、面向转化的设计，是服务型机构官网的参考。"
     }
   ]
 }
