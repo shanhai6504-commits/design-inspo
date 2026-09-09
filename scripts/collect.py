@@ -45,7 +45,7 @@ def screenshot(site, force=False):
         return out
     base = ["--headless=new", "--disable-gpu", "--hide-scrollbars",
             "--no-first-run", "--no-default-browser-check", "--disable-extensions",
-            "--mute-audio", "--force-device-scale-factor=1"]
+            "--mute-audio", "--force-device-scale-factor=1", "--no-proxy-server"]
     webgl = base + ["--enable-unsafe-swiftshader", "--use-gl=angle",
                     "--use-angle=swiftshader-webgl"]
     for flags in (base, webgl):
