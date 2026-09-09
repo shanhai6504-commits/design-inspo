@@ -35,6 +35,46 @@
       "tags": ["组件库", "动画", "React", "Pro"],
       "note": "已去掉追踪参数，改截首页",
       "analysis": "React Bits 的 Pro 进阶版，提供更复杂的 3D、着色器与高级动效组件，是「商业级前端动效组件」的高质量样本。"
+    },
+    {
+      "id": "huy-phan",
+      "name": "Huy Phan",
+      "url": "https://huyml.co/",
+      "tags": ["作品集", "交互设计", "动效", "个人网站"],
+      "note": "来源：Awwwards 精选（自主搜集）",
+      "analysis": "获奖设计师 Huy Phan 的个人作品集。用大胆的动效与排版呈现项目，交互细节写得克制又高级，是顶尖个人站/作品集的标杆。"
+    },
+    {
+      "id": "illoca-unseen",
+      "name": "Illoca · Unseen",
+      "url": "https://illoca.unseen.co/",
+      "tags": ["WebGL", "创意技术", "建筑", "沉浸式"],
+      "note": "来源：Awwwards 精选（自主搜集）",
+      "analysis": "英国创意技术工作室 Unseen 的建筑项目站，主打沉浸式 WebGL 与空间化叙事，代表「生成艺术 + 实时三维」在品牌官网里的前沿方向。"
+    },
+    {
+      "id": "merlin-studio",
+      "name": "Merlin Studio",
+      "url": "https://merlin.studio/",
+      "tags": ["工作室", "品牌", "动效", "数字设计"],
+      "note": "来源：Awwwards 精选（自主搜集）",
+      "analysis": "精品数字工作室官网。简洁克制的高级感设计，靠细腻的动效、字距与留白营造质感，是「少即是多」型机构站的好样本。"
+    },
+    {
+      "id": "gionatan-nese",
+      "name": "Gionatan Nese",
+      "url": "https://www.gionatannese.com/",
+      "tags": ["作品集", "多学科", "设计", "排版"],
+      "note": "来源：Awwwards 精选（自主搜集）",
+      "analysis": "多学科设计师 Gionatan Nese 的个人站，实验性排版与视觉语言突破常规，体现设计师如何用网页本身作为「作品」。"
+    },
+    {
+      "id": "sadu-media",
+      "name": "Sadu Media",
+      "url": "https://www.sadumedia.com/",
+      "tags": ["影视制作", "品牌", "视觉", "中东"],
+      "note": "来源：Awwwards 精选（自主搜集）",
+      "analysis": "沙特获奖影视制作公司官网，浓郁的地域文化风格 + 电影级视觉呈现，是「影视/制作类品牌」做高级官网的参考。"
     }
   ]
 }
