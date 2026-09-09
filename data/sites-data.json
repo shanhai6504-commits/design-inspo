@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09 13:49",
+  "updated_at": "2026-09-09 13:53",
   "sites": [
     {
       "id": "godly-website",
@@ -31,8 +31,8 @@
         "#b79896",
         "#b9ad8d"
       ],
-      "captured_at": "2026-09-09 13:45",
-      "elapsed_s": 6.7
+      "captured_at": "2026-09-09 13:53",
+      "elapsed_s": 7.3
     },
     {
       "id": "unicorn-studio",
@@ -60,7 +60,7 @@
         "#7c5ad3",
         "#8562db"
       ],
-      "captured_at": "2026-09-09 13:45",
+      "captured_at": "2026-09-09 13:53",
       "elapsed_s": 1.9
     },
     {
@@ -92,8 +92,8 @@
         "#291448",
         "#2d1153"
       ],
-      "captured_at": "2026-09-09 13:45",
-      "elapsed_s": 2.8
+      "captured_at": "2026-09-09 13:53",
+      "elapsed_s": 3.5
     },
     {
       "id": "reactbits-pro",
@@ -129,8 +129,8 @@
         "#773975",
         "#362538"
       ],
-      "captured_at": "2026-09-09 13:45",
-      "elapsed_s": 3.2
+      "captured_at": "2026-09-09 13:53",
+      "elapsed_s": 3.1
     },
     {
       "id": "huy-phan",
@@ -173,8 +173,8 @@
         "#808080",
         "#d7d7d7"
       ],
-      "captured_at": "2026-09-09 13:46",
-      "elapsed_s": 14.7
+      "captured_at": "2026-09-09 13:53",
+      "elapsed_s": 2.7
     },
     {
       "id": "illoca-unseen",
@@ -210,7 +210,7 @@
         "#3b60c5",
         "#dfd5c0"
       ],
-      "captured_at": "2026-09-09 13:46",
+      "captured_at": "2026-09-09 13:53",
       "elapsed_s": 2.8
     },
     {
@@ -240,8 +240,8 @@
       "og_image": "https://merlin.studio/images/merlin-studio.gif",
       "fetch_error": "",
       "colors": [],
-      "captured_at": "2026-09-09 13:46",
-      "elapsed_s": 1.6
+      "captured_at": "2026-09-09 13:53",
+      "elapsed_s": 4.3
     },
     {
       "id": "sadu-media",
@@ -268,8 +268,8 @@
       "og_image": "https://www.sadumedia.com/wp-content/uploads/2025/06/og-image.jpg",
       "fetch_error": "",
       "colors": [],
-      "captured_at": "2026-09-09 13:46",
-      "elapsed_s": 2.9
+      "captured_at": "2026-09-09 13:53",
+      "elapsed_s": 3.0
     },
     {
       "id": "counter-forms",
@@ -305,8 +305,8 @@
         "#8997a8",
         "#b9aa98"
       ],
-      "captured_at": "2026-09-09 13:46",
-      "elapsed_s": 12.5
+      "captured_at": "2026-09-09 13:53",
+      "elapsed_s": 3.2
     },
     {
       "id": "snohetta",
@@ -339,39 +339,8 @@
         "#acacac",
         "#e3e3e3"
       ],
-      "captured_at": "2026-09-09 13:46",
-      "elapsed_s": 8.9
-    },
-    {
-      "id": "shopify-design",
-      "name": "Shopify Design",
-      "url": "https://shopify.design",
-      "orig_url": "https://shopify.design",
-      "tags": [
-        "品牌",
-        "设计系统",
-        "大厂",
-        "产品"
-      ],
-      "note": "来源：自主搜集",
-      "analysis": "Shopify 设计团队的门户，展示大厂设计文化、设计系统与工具，是「设计团队品牌化」的标杆。",
-      "screenshot": null,
-      "title": "Shopify Design",
-      "description": "The Shopify Design team — Designing the future of agentic commerce. Experiments, ideas, and the people behind the craft.",
-      "fonts": [],
-      "css_colors": [
-        "fff",
-        "ffffff",
-        "000000",
-        "ffaac7",
-        "1c3b36",
-        "4f2730"
-      ],
-      "og_image": "",
-      "fetch_error": "",
-      "colors": [],
-      "captured_at": "2026-09-09 13:48",
-      "elapsed_s": 92.6
+      "captured_at": "2026-09-09 13:53",
+      "elapsed_s": 3.7
     },
     {
       "id": "mobbin",
@@ -414,8 +383,8 @@
         "#ababab",
         "#e6e6e6"
       ],
-      "captured_at": "2026-09-09 13:48",
-      "elapsed_s": 47.9
+      "captured_at": "2026-09-09 13:53",
+      "elapsed_s": 3.0
     },
     {
       "id": "refokus",
@@ -451,8 +420,8 @@
         "#fafafa",
         "#c6c7c8"
       ],
-      "captured_at": "2026-09-09 13:49",
-      "elapsed_s": 48.8
+      "captured_at": "2026-09-09 13:53",
+      "elapsed_s": 8.4
     }
   ]
 }
