@@ -12,6 +12,7 @@ UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
 
 SOURCES = [
+    ("godly-recent", "https://recent.design/websites"),
     ("awwwards", "https://www.awwwards.com/"),
     ("httpster", "https://httpster.net/"),
 ]
@@ -20,7 +21,8 @@ URL_RE = re.compile(r'https?://[a-zA-Z0-9.-]+\.(?:com|io|co|design|dev|ai|app|st
 EXCLUDE = re.compile(
     r'(awwwards|siteinspire|land-book|httpster|onepagelove|google|facebook|twitter|instagram|x\.com|'
     r'youtube|vimeo|cloudflare|jsdelivr|unpkg|github|w3\.org|schema|gstatic|doubleclick|'
-    r'typekit|fonts\.google|readymag|plausible|kit\.com|rightclicklogo)', re.I)
+    r'typekit|fonts\.google|readymag|plausible|kit\.com|rightclicklogo|'
+    r'recent\.design|godly|cdn\.|tiktok|linkedin|shopify\.com|trevornoah)', re.I)
 
 
 def fetch(url):
