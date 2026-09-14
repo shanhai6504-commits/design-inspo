@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09 13:53",
+  "updated_at": "2026-09-14 10:12",
   "sites": [
     {
       "id": "godly-website",
@@ -25,14 +25,14 @@
       "og_image": "https://recent.design/og.png",
       "fetch_error": "",
       "colors": [
-        "#bcb192",
-        "#c6a7a8",
-        "#e4a6b9",
-        "#b79896",
-        "#b9ad8d"
+        "#645544",
+        "#eae3d6",
+        "#a4acb8",
+        "#aab2bd",
+        "#81aceb"
       ],
-      "captured_at": "2026-09-09 13:53",
-      "elapsed_s": 7.3
+      "captured_at": "2026-09-14 10:06",
+      "elapsed_s": 22.0
     },
     {
       "id": "unicorn-studio",
@@ -47,21 +47,21 @@
       "note": "你给的是登录后的 dashboard，已改截公开首页",
       "analysis": "面向创意前端的 WebGL 动效工具/案例库。首页即是一组炫目的实时着色器与粒子动效，代表「生成艺术 + 交互动效」在商业网页里的最新应用方式。",
       "screenshot": "screenshots/unicorn-studio.png",
-      "title": "Unicorn Studio — Interactive Motion &amp; Real-Time Graphics",
-      "description": "Create interactive motion and real-time graphics for the web. Stack layers on a real-time canvas, shape them with effects and motion, expose controls, and ship.",
+      "title": "Unicorn Studio — Craft Interactive Graphics that Ship",
+      "description": "Design production-ready web components with shaders, media, 3D, and interactive motion in a visual canvas.",
       "fonts": [],
       "css_colors": [],
-      "og_image": "https://www.unicorn.studio/images/ogg2.png",
+      "og_image": "https://www.unicorn.studio/images/ogg_new.png",
       "fetch_error": "",
       "colors": [
         "#aeaac0",
+        "#7b778a",
+        "#a9a5bb",
         "#807b90",
-        "#a8a4b9",
-        "#7c5ad3",
-        "#8562db"
+        "#7c5ad3"
       ],
-      "captured_at": "2026-09-09 13:53",
-      "elapsed_s": 1.9
+      "captured_at": "2026-09-14 10:06",
+      "elapsed_s": 14.0
     },
     {
       "id": "reactbits",
@@ -92,8 +92,8 @@
         "#291448",
         "#2d1153"
       ],
-      "captured_at": "2026-09-09 13:53",
-      "elapsed_s": 3.5
+      "captured_at": "2026-09-14 10:07",
+      "elapsed_s": 47.5
     },
     {
       "id": "reactbits-pro",
@@ -123,14 +123,14 @@
       "og_image": "https://pro.reactbits.dev/og.png?v=2",
       "fetch_error": "",
       "colors": [
-        "#774676",
-        "#785677",
-        "#472646",
-        "#773975",
-        "#362538"
+        "#180e3c",
+        "#a191da",
+        "#f486ec",
+        "#0d132a",
+        "#1a1040"
       ],
-      "captured_at": "2026-09-09 13:53",
-      "elapsed_s": 3.1
+      "captured_at": "2026-09-14 10:08",
+      "elapsed_s": 47.5
     },
     {
       "id": "huy-phan",
@@ -173,8 +173,8 @@
         "#808080",
         "#d7d7d7"
       ],
-      "captured_at": "2026-09-09 13:53",
-      "elapsed_s": 2.7
+      "captured_at": "2026-09-14 10:09",
+      "elapsed_s": 48.8
     },
     {
       "id": "illoca-unseen",
@@ -210,8 +210,8 @@
         "#3b60c5",
         "#dfd5c0"
       ],
-      "captured_at": "2026-09-09 13:53",
-      "elapsed_s": 2.8
+      "captured_at": "2026-09-14 10:09",
+      "elapsed_s": 9.1
     },
     {
       "id": "merlin-studio",
@@ -240,8 +240,8 @@
       "og_image": "https://merlin.studio/images/merlin-studio.gif",
       "fetch_error": "",
       "colors": [],
-      "captured_at": "2026-09-09 13:53",
-      "elapsed_s": 4.3
+      "captured_at": "2026-09-14 10:10",
+      "elapsed_s": 65.1
     },
     {
       "id": "sadu-media",
@@ -268,8 +268,8 @@
       "og_image": "https://www.sadumedia.com/wp-content/uploads/2025/06/og-image.jpg",
       "fetch_error": "",
       "colors": [],
-      "captured_at": "2026-09-09 13:53",
-      "elapsed_s": 3.0
+      "captured_at": "2026-09-14 10:10",
+      "elapsed_s": 33.2
     },
     {
       "id": "counter-forms",
@@ -289,24 +289,24 @@
       "description": "Counter Forms is a new typographic venture that seeks to champion young, discursive, Antipodean type designers.",
       "fonts": [
         "Passenger Regular",
-        "Pantasia Regular",
+        "Eyja Regular",
         "CounterFormsLoading",
-        "Herbik ExtraBold",
-        "Herbik ExtraBold Italic",
-        "Telas Regular"
+        "Eyja Regular Italic",
+        "Telas Medium",
+        "Telas Medium Italic"
       ],
       "css_colors": [],
       "og_image": "",
       "fetch_error": "",
       "colors": [
-        "#332d42",
-        "#383247",
-        "#9599a9",
-        "#8997a8",
-        "#b9aa98"
+        "#fefefe",
+        "#eeeeee",
+        "#000000",
+        "#d5d5d5",
+        "#c8c8c8"
       ],
-      "captured_at": "2026-09-09 13:53",
-      "elapsed_s": 3.2
+      "captured_at": "2026-09-14 10:11",
+      "elapsed_s": 13.6
     },
     {
       "id": "snohetta",
@@ -333,14 +333,14 @@
       "og_image": "https://snohetta.b-cdn.net/uploads/images/thumbnail_2025.jpg?width=1200&height=630&format=jpg&quality=85&crop=1920%2C1008%2C0%2C36",
       "fetch_error": "",
       "colors": [
-        "#000000",
-        "#131313",
-        "#fbfbfb",
-        "#acacac",
-        "#e3e3e3"
+        "#010100",
+        "#171716",
+        "#14110d",
+        "#110d0a",
+        "#0e1113"
       ],
-      "captured_at": "2026-09-09 13:53",
-      "elapsed_s": 3.7
+      "captured_at": "2026-09-14 10:11",
+      "elapsed_s": 14.8
     },
     {
       "id": "mobbin",
@@ -377,14 +377,14 @@
       "og_image": "https://framerusercontent.com/assets/FE3uqmxi41SxsiiVq9JNJC1Pwc.png",
       "fetch_error": "",
       "colors": [
-        "#5432eb",
         "#fefefe",
         "#141414",
-        "#ababab",
-        "#e6e6e6"
+        "#e8e7e4",
+        "#acacac",
+        "#757575"
       ],
-      "captured_at": "2026-09-09 13:53",
-      "elapsed_s": 3.0
+      "captured_at": "2026-09-14 10:11",
+      "elapsed_s": 12.8
     },
     {
       "id": "refokus",
@@ -414,14 +414,14 @@
       "og_image": "",
       "fetch_error": "",
       "colors": [
-        "#0f1215",
-        "#1b1b1c",
-        "#0a0d0f",
-        "#fafafa",
-        "#c6c7c8"
+        "#6a3ce8",
+        "#6138d3",
+        "#2a1e56",
+        "#5130ad",
+        "#1c1734"
       ],
-      "captured_at": "2026-09-09 13:53",
-      "elapsed_s": 8.4
+      "captured_at": "2026-09-14 10:12",
+      "elapsed_s": 46.8
     }
   ]
 }
