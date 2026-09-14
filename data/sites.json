@@ -99,6 +99,38 @@
       "tags": ["代理", "B2B", "品牌", "Web开发"],
       "note": "来源：自主搜集",
       "analysis": "专注 B2B 科技创业公司的品牌与网页设计代理。动效克制、面向转化的设计，是服务型机构官网的参考。"
+    },
+    {
+      "id": "warren-mahoney",
+      "name": "Warren & Mahoney Architects",
+      "url": "https://wam.studio/",
+      "tags": ["建筑", "事务所", "作品集", "品牌"],
+      "note": "来源：自主搜集",
+      "analysis": "新西兰知名建筑事务所官网。大幅建筑摄影 + 克制的排版做沉浸式作品集叙事，是「建筑/空间类机构」做高级官网的标杆。"
+    },
+    {
+      "id": "patrick-mason-studio",
+      "name": "Patrick Mason Studio",
+      "url": "https://patrickmason.studio/",
+      "tags": ["作品集", "个人站", "设计工作室", "动效"],
+      "note": "来源：自主搜集",
+      "analysis": "独立设计师 Patrick Mason 的工作室作品集。大胆的排版与精致的交互细节呈现项目，是个人作品集/独立工作室站的高质量样本。"
+    },
+    {
+      "id": "viens-la",
+      "name": "Viens-là",
+      "url": "https://viens-la.com/",
+      "tags": ["工作室", "品牌", "数字设计", "巴黎"],
+      "note": "来源：自主搜集",
+      "analysis": "巴黎数字与品牌设计工作室，专注定制网站与视觉识别，获 Awwwards 认可。官网前卫又克制，是欧洲创意工作室的最新风向。"
+    },
+    {
+      "id": "middle-name-co",
+      "name": "Middle Name Communications",
+      "url": "https://middlename.co/",
+      "tags": ["创意机构", "品牌", "传播", "动效"],
+      "note": "来源：自主搜集",
+      "analysis": "创意传播机构官网，鲜明的品牌调性 + 活泼的动效与排版，代表「创意传播类机构」做官网的潮流做法。"
     }
   ]
 }

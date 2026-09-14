@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14 10:12",
+  "updated_at": "2026-09-14 11:05",
   "sites": [
     {
       "id": "godly-website",
@@ -31,8 +31,8 @@
         "#aab2bd",
         "#81aceb"
       ],
-      "captured_at": "2026-09-14 10:06",
-      "elapsed_s": 22.0
+      "captured_at": "2026-09-14 11:03",
+      "elapsed_s": 7.3
     },
     {
       "id": "unicorn-studio",
@@ -60,8 +60,8 @@
         "#807b90",
         "#7c5ad3"
       ],
-      "captured_at": "2026-09-14 10:06",
-      "elapsed_s": 14.0
+      "captured_at": "2026-09-14 11:03",
+      "elapsed_s": 4.7
     },
     {
       "id": "reactbits",
@@ -92,8 +92,8 @@
         "#291448",
         "#2d1153"
       ],
-      "captured_at": "2026-09-14 10:07",
-      "elapsed_s": 47.5
+      "captured_at": "2026-09-14 11:03",
+      "elapsed_s": 3.1
     },
     {
       "id": "reactbits-pro",
@@ -129,8 +129,8 @@
         "#0d132a",
         "#1a1040"
       ],
-      "captured_at": "2026-09-14 10:08",
-      "elapsed_s": 47.5
+      "captured_at": "2026-09-14 11:03",
+      "elapsed_s": 3.4
     },
     {
       "id": "huy-phan",
@@ -173,8 +173,8 @@
         "#808080",
         "#d7d7d7"
       ],
-      "captured_at": "2026-09-14 10:09",
-      "elapsed_s": 48.8
+      "captured_at": "2026-09-14 11:03",
+      "elapsed_s": 2.9
     },
     {
       "id": "illoca-unseen",
@@ -210,8 +210,8 @@
         "#3b60c5",
         "#dfd5c0"
       ],
-      "captured_at": "2026-09-14 10:09",
-      "elapsed_s": 9.1
+      "captured_at": "2026-09-14 11:03",
+      "elapsed_s": 2.7
     },
     {
       "id": "merlin-studio",
@@ -240,8 +240,8 @@
       "og_image": "https://merlin.studio/images/merlin-studio.gif",
       "fetch_error": "",
       "colors": [],
-      "captured_at": "2026-09-14 10:10",
-      "elapsed_s": 65.1
+      "captured_at": "2026-09-14 11:03",
+      "elapsed_s": 1.8
     },
     {
       "id": "sadu-media",
@@ -268,8 +268,8 @@
       "og_image": "https://www.sadumedia.com/wp-content/uploads/2025/06/og-image.jpg",
       "fetch_error": "",
       "colors": [],
-      "captured_at": "2026-09-14 10:10",
-      "elapsed_s": 33.2
+      "captured_at": "2026-09-14 11:03",
+      "elapsed_s": 2.9
     },
     {
       "id": "counter-forms",
@@ -288,12 +288,12 @@
       "title": "Counter Forms",
       "description": "Counter Forms is a new typographic venture that seeks to champion young, discursive, Antipodean type designers.",
       "fonts": [
-        "Passenger Regular",
-        "Eyja Regular",
+        "Herbik Black",
         "CounterFormsLoading",
+        "Fugit Regular",
+        "Eyja Regular",
         "Eyja Regular Italic",
-        "Telas Medium",
-        "Telas Medium Italic"
+        "Passenger Regular"
       ],
       "css_colors": [],
       "og_image": "",
@@ -305,8 +305,8 @@
         "#d5d5d5",
         "#c8c8c8"
       ],
-      "captured_at": "2026-09-14 10:11",
-      "elapsed_s": 13.6
+      "captured_at": "2026-09-14 11:03",
+      "elapsed_s": 3.5
     },
     {
       "id": "snohetta",
@@ -339,8 +339,8 @@
         "#110d0a",
         "#0e1113"
       ],
-      "captured_at": "2026-09-14 10:11",
-      "elapsed_s": 14.8
+      "captured_at": "2026-09-14 11:03",
+      "elapsed_s": 4.2
     },
     {
       "id": "mobbin",
@@ -383,8 +383,8 @@
         "#acacac",
         "#757575"
       ],
-      "captured_at": "2026-09-14 10:11",
-      "elapsed_s": 12.8
+      "captured_at": "2026-09-14 11:03",
+      "elapsed_s": 2.6
     },
     {
       "id": "refokus",
@@ -420,8 +420,168 @@
         "#5130ad",
         "#1c1734"
       ],
-      "captured_at": "2026-09-14 10:12",
-      "elapsed_s": 46.8
+      "captured_at": "2026-09-14 11:03",
+      "elapsed_s": 2.2
+    },
+    {
+      "id": "warren-mahoney",
+      "name": "Warren & Mahoney Architects",
+      "url": "https://wam.studio/",
+      "orig_url": "https://wam.studio/",
+      "tags": [
+        "建筑",
+        "事务所",
+        "作品集",
+        "品牌"
+      ],
+      "note": "来源：自主搜集",
+      "analysis": "新西兰知名建筑事务所官网。大幅建筑摄影 + 克制的排版做沉浸式作品集叙事，是「建筑/空间类机构」做高级官网的标杆。",
+      "screenshot": "screenshots/warren-mahoney.png",
+      "title": "Warren &amp; Mahoney Architects | Warren and Mahoney",
+      "description": "We are an architecture practice based in Australia and New Zealand with approximately 350 highly engaged people from 35 countries, all eager to explore how design can meet the needs of a rapidly changing world.",
+      "fonts": [
+        "die-grotesk-a",
+        "die-grotesk-b",
+        "die-grotesk-c"
+      ],
+      "css_colors": [
+        "ffffff",
+        "ec7d2e",
+        "d47182",
+        "000000",
+        "ececec",
+        "00649f"
+      ],
+      "og_image": "https://wam.studio/strapi/uploads/wam_worm_4c6fab42b0.png",
+      "fetch_error": "",
+      "colors": [
+        "#652d30",
+        "#77af82",
+        "#ec1c24",
+        "#d36d27",
+        "#2d5e2e"
+      ],
+      "captured_at": "2026-09-14 11:04",
+      "elapsed_s": 22.9
+    },
+    {
+      "id": "patrick-mason-studio",
+      "name": "Patrick Mason Studio",
+      "url": "https://patrickmason.studio/",
+      "orig_url": "https://patrickmason.studio/",
+      "tags": [
+        "作品集",
+        "个人站",
+        "设计工作室",
+        "动效"
+      ],
+      "note": "来源：自主搜集",
+      "analysis": "独立设计师 Patrick Mason 的工作室作品集。大胆的排版与精致的交互细节呈现项目，是个人作品集/独立工作室站的高质量样本。",
+      "screenshot": "screenshots/patrick-mason-studio.png",
+      "title": "Patrick Mason Studio",
+      "description": "Patrick Mason partners with cultural, commercial and individual clients to create engaging and memorable designs. Based in Eora (Sydney), Australia.",
+      "fonts": [
+        "ui-sans-serif",
+        "system-ui",
+        "ui-monospace",
+        "SFMono-Regular",
+        "inherit"
+      ],
+      "css_colors": [
+        "f8f8f8",
+        "fff",
+        "9ca3af",
+        "da482b",
+        "080808",
+        "e5e7eb"
+      ],
+      "og_image": "",
+      "fetch_error": "",
+      "colors": [
+        "#4032eb",
+        "#3e2ee5",
+        "#382ad7",
+        "#5345ee",
+        "#e48f7e"
+      ],
+      "captured_at": "2026-09-14 11:04",
+      "elapsed_s": 13.1
+    },
+    {
+      "id": "viens-la",
+      "name": "Viens-là",
+      "url": "https://viens-la.com/",
+      "orig_url": "https://viens-la.com/",
+      "tags": [
+        "工作室",
+        "品牌",
+        "数字设计",
+        "巴黎"
+      ],
+      "note": "来源：自主搜集",
+      "analysis": "巴黎数字与品牌设计工作室，专注定制网站与视觉识别，获 Awwwards 认可。官网前卫又克制，是欧洲创意工作室的最新风向。",
+      "screenshot": "screenshots/viens-la.png",
+      "title": "Viens-là | Agence digitale & branding sur-mesure — Paris",
+      "description": "Studio créatif parisien spécialisé dans la création de sites web et identités visuelles sur-mesure. 15 ans d&#039;expérience, récompensé Awwwards.",
+      "fonts": [],
+      "css_colors": [
+        "5f45f2",
+        "fff",
+        "96f1c6",
+        "039",
+        "000",
+        "ffe375"
+      ],
+      "og_image": "https://viens-la.com/wp-content/uploads/2023/11/linkedin.png",
+      "fetch_error": "",
+      "colors": [
+        "#8369d5",
+        "#9479c6",
+        "#d4b995",
+        "#e4c889",
+        "#c4a8a3"
+      ],
+      "captured_at": "2026-09-14 11:04",
+      "elapsed_s": 17.9
+    },
+    {
+      "id": "middle-name-co",
+      "name": "Middle Name Communications",
+      "url": "https://middlename.co/",
+      "orig_url": "https://middlename.co/",
+      "tags": [
+        "创意机构",
+        "品牌",
+        "传播",
+        "动效"
+      ],
+      "note": "来源：自主搜集",
+      "analysis": "创意传播机构官网，鲜明的品牌调性 + 活泼的动效与排版，代表「创意传播类机构」做官网的潮流做法。",
+      "screenshot": "screenshots/middle-name-co.png",
+      "title": "Middle Name Communications",
+      "description": "Visit middlename.co for updates on our website launching soon. Sign up for our newsletter to stay informed!",
+      "fonts": [
+        "monospace",
+        "sans-serif!important",
+        "unset"
+      ],
+      "css_colors": [
+        "fff",
+        "969696",
+        "ff0",
+        "000"
+      ],
+      "og_image": "https://img1.wsimg.com/isteam/getty/2255595264",
+      "fetch_error": "",
+      "colors": [
+        "#564639",
+        "#665649",
+        "#97a3aa",
+        "#8998a3",
+        "#776656"
+      ],
+      "captured_at": "2026-09-14 11:05",
+      "elapsed_s": 23.5
     }
   ]
 }
