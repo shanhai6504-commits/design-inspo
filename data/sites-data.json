@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16 14:36",
+  "updated_at": "2026-09-16 16:05",
   "sites": [
     {
       "id": "godly-website",
@@ -31,8 +31,8 @@
         "#aab2bd",
         "#81aceb"
       ],
-      "captured_at": "2026-09-16 14:27",
-      "elapsed_s": 6.4
+      "captured_at": "2026-09-16 15:51",
+      "elapsed_s": 7.4
     },
     {
       "id": "unicorn-studio",
@@ -60,7 +60,7 @@
         "#807b90",
         "#7c5ad3"
       ],
-      "captured_at": "2026-09-16 14:27",
+      "captured_at": "2026-09-16 15:51",
       "elapsed_s": 2.2
     },
     {
@@ -92,8 +92,8 @@
         "#291448",
         "#2d1153"
       ],
-      "captured_at": "2026-09-16 14:27",
-      "elapsed_s": 2.7
+      "captured_at": "2026-09-16 15:51",
+      "elapsed_s": 3.3
     },
     {
       "id": "reactbits-pro",
@@ -129,8 +129,8 @@
         "#0d132a",
         "#1a1040"
       ],
-      "captured_at": "2026-09-16 14:27",
-      "elapsed_s": 2.9
+      "captured_at": "2026-09-16 15:51",
+      "elapsed_s": 3.2
     },
     {
       "id": "huy-phan",
@@ -173,8 +173,8 @@
         "#808080",
         "#d7d7d7"
       ],
-      "captured_at": "2026-09-16 14:28",
-      "elapsed_s": 3.7
+      "captured_at": "2026-09-16 15:51",
+      "elapsed_s": 3.4
     },
     {
       "id": "illoca-unseen",
@@ -210,8 +210,8 @@
         "#3b60c5",
         "#dfd5c0"
       ],
-      "captured_at": "2026-09-16 14:28",
-      "elapsed_s": 3.2
+      "captured_at": "2026-09-16 15:51",
+      "elapsed_s": 2.5
     },
     {
       "id": "merlin-studio",
@@ -240,8 +240,8 @@
       "og_image": "https://merlin.studio/images/merlin-studio.gif",
       "fetch_error": "",
       "colors": [],
-      "captured_at": "2026-09-16 14:28",
-      "elapsed_s": 2.3
+      "captured_at": "2026-09-16 15:51",
+      "elapsed_s": 1.6
     },
     {
       "id": "sadu-media",
@@ -268,8 +268,8 @@
       "og_image": "https://www.sadumedia.com/wp-content/uploads/2025/06/og-image.jpg",
       "fetch_error": "",
       "colors": [],
-      "captured_at": "2026-09-16 14:28",
-      "elapsed_s": 3.4
+      "captured_at": "2026-09-16 15:51",
+      "elapsed_s": 2.9
     },
     {
       "id": "counter-forms",
@@ -288,12 +288,12 @@
       "title": "Counter Forms",
       "description": "Counter Forms is a new typographic venture that seeks to champion young, discursive, Antipodean type designers.",
       "fonts": [
-        "Herbik Regular",
-        "Passenger Regular",
-        "Herbik ExtraBold",
+        "Telas Medium",
         "CounterFormsLoading",
-        "Herbik ExtraBold Italic",
-        "Fugit Bold"
+        "Pantasia Regular",
+        "Fugit Regular",
+        "Herbik Black",
+        "Fugit Regular Italic"
       ],
       "css_colors": [],
       "og_image": "",
@@ -305,8 +305,8 @@
         "#d5d5d5",
         "#c8c8c8"
       ],
-      "captured_at": "2026-09-16 14:28",
-      "elapsed_s": 3.4
+      "captured_at": "2026-09-16 15:51",
+      "elapsed_s": 3.3
     },
     {
       "id": "snohetta",
@@ -339,8 +339,8 @@
         "#110d0a",
         "#0e1113"
       ],
-      "captured_at": "2026-09-16 14:28",
-      "elapsed_s": 5.1
+      "captured_at": "2026-09-16 15:51",
+      "elapsed_s": 3.7
     },
     {
       "id": "mobbin",
@@ -383,8 +383,8 @@
         "#acacac",
         "#757575"
       ],
-      "captured_at": "2026-09-16 14:28",
-      "elapsed_s": 8.7
+      "captured_at": "2026-09-16 15:51",
+      "elapsed_s": 2.5
     },
     {
       "id": "refokus",
@@ -420,8 +420,8 @@
         "#5130ad",
         "#1c1734"
       ],
-      "captured_at": "2026-09-16 14:28",
-      "elapsed_s": 2.6
+      "captured_at": "2026-09-16 15:51",
+      "elapsed_s": 2.2
     },
     {
       "id": "warren-mahoney",
@@ -461,8 +461,8 @@
         "#d36d27",
         "#2d5e2e"
       ],
-      "captured_at": "2026-09-16 14:28",
-      "elapsed_s": 2.9
+      "captured_at": "2026-09-16 15:51",
+      "elapsed_s": 6.3
     },
     {
       "id": "patrick-mason-studio",
@@ -504,8 +504,8 @@
         "#5345ee",
         "#e48f7e"
       ],
-      "captured_at": "2026-09-16 14:28",
-      "elapsed_s": 3.4
+      "captured_at": "2026-09-16 15:51",
+      "elapsed_s": 3.3
     },
     {
       "id": "viens-la",
@@ -541,8 +541,8 @@
         "#e4c889",
         "#c4a8a3"
       ],
-      "captured_at": "2026-09-16 14:28",
-      "elapsed_s": 3.4
+      "captured_at": "2026-09-16 15:51",
+      "elapsed_s": 3.0
     },
     {
       "id": "middle-name-co",
@@ -580,8 +580,8 @@
         "#8998a3",
         "#776656"
       ],
-      "captured_at": "2026-09-16 14:28",
-      "elapsed_s": 3.6
+      "captured_at": "2026-09-16 15:52",
+      "elapsed_s": 3.2
     },
     {
       "id": "astro-dither",
@@ -607,8 +607,8 @@
       "og_image": "https://astrodither.robertborghesi.is/share.jpg",
       "fetch_error": "",
       "colors": [],
-      "captured_at": "2026-09-16 14:31",
-      "elapsed_s": 24.1
+      "captured_at": "2026-09-16 15:52",
+      "elapsed_s": 1.6
     },
     {
       "id": "nothing-to-watch",
@@ -639,8 +639,8 @@
         "#d8af6d",
         "#b78421"
       ],
-      "captured_at": "2026-09-16 14:29",
-      "elapsed_s": 8.6
+      "captured_at": "2026-09-16 15:52",
+      "elapsed_s": 1.9
     },
     {
       "id": "cathy-dolle",
@@ -666,8 +666,8 @@
       "og_image": "https://cdn.sanity.io/images/7npwh62g/production/d44a83155905b03cb0ae63b31ddd05041505e594-1440x810.webp",
       "fetch_error": "",
       "colors": [],
-      "captured_at": "2026-09-16 14:36",
-      "elapsed_s": 21.7
+      "captured_at": "2026-09-16 15:52",
+      "elapsed_s": 1.8
     },
     {
       "id": "dirtverse",
@@ -710,8 +710,8 @@
         "#c9b7f4",
         "#284354"
       ],
-      "captured_at": "2026-09-16 14:30",
-      "elapsed_s": 14.0
+      "captured_at": "2026-09-16 15:52",
+      "elapsed_s": 3.2
     },
     {
       "id": "harry-atkins",
@@ -742,8 +742,751 @@
         "#a8bcc4",
         "#4399b5"
       ],
-      "captured_at": "2026-09-16 14:30",
-      "elapsed_s": 10.0
+      "captured_at": "2026-09-16 15:52",
+      "elapsed_s": 2.4
+    },
+    {
+      "id": "lusion",
+      "name": "Lusion",
+      "url": "https://www.lusion.co/",
+      "orig_url": "https://www.lusionstudio.com/",
+      "tags": [
+        "WebGL",
+        "沉浸式",
+        "创意工作室",
+        "交互动效"
+      ],
+      "note": "你给的 lusionstudio.com 的现行主域名",
+      "analysis": "Lusion 官方主站。WebGL 实时渲染的感性地标——定制十字光标、加载进度条即作品、12 个项目的 hover 图片流，把「交互即内容」做到极致，高级创意工作室的图腾级标杆。",
+      "screenshot": "screenshots/lusion.png",
+      "title": "Lusion - Award Winning 3D and Interactive Web Studio",
+      "description": "We design and produce 3D visual storytelling, immersive websites, and interactive digital experiences that help brands stand out online.",
+      "fonts": [],
+      "css_colors": [
+        "000",
+        "fff",
+        "000000",
+        "ffffff",
+        "1a1411",
+        "ffedd7"
+      ],
+      "og_image": "https://lusion.co/assets/meta/social_sharing.jpg",
+      "fetch_error": "",
+      "colors": [
+        "#000000",
+        "#ffffff",
+        "#4d4d4d",
+        "#d9d9d9",
+        "#7c7c7c"
+      ],
+      "captured_at": "2026-09-16 15:52",
+      "elapsed_s": 22.1
+    },
+    {
+      "id": "active-theory",
+      "name": "Active Theory",
+      "url": "https://activetheory.net/",
+      "orig_url": "https://activetheory.net/",
+      "tags": [
+        "WebGL",
+        "沉浸式",
+        "创意工作室"
+      ],
+      "note": "同 Lusion 同档的体验优先工作室",
+      "analysis": "面向顶级品牌的沉浸式 WebGL 工作室，整站本身就是一段实时渲染体验，场景过渡极考究，是与 Lusion 同档的「体验优先」工作室范本。",
+      "screenshot": "screenshots/active-theory.png",
+      "title": "Active Theory · Creative Digital Experiences",
+      "description": "Founded in 2012. We blend story, art & technology as an in-house team of passionate makers. Our industry-leading web toolset consistently delivers award-winning work through quality & performance. ",
+      "fonts": [
+        "Helvetica",
+        "Arial"
+      ],
+      "css_colors": [
+        "333333",
+        "ffffff",
+        "000000",
+        "000"
+      ],
+      "og_image": "https://storage.googleapis.com/activetheory-v6.appspot.com/media/social.jpg",
+      "fetch_error": "",
+      "colors": [
+        "#1b2533",
+        "#181a32",
+        "#273556",
+        "#120e22",
+        "#1a2746"
+      ],
+      "captured_at": "2026-09-16 15:53",
+      "elapsed_s": 55.8
+    },
+    {
+      "id": "immersive-garden",
+      "name": "Immersive Garden",
+      "url": "https://immersive-g.com/",
+      "orig_url": "https://immersive-g.com/",
+      "tags": [
+        "WebGL",
+        "沉浸式",
+        "品牌叙事"
+      ],
+      "note": "",
+      "analysis": "WebGL 场景化开场 + 叙事型动效，用实时三维讲品牌故事，是商业 WebGL「沉浸但克制」的代表。",
+      "screenshot": "screenshots/immersive-garden.png",
+      "title": "Immersive Garden",
+      "description": "Immersive Garden, Innovative digital experience studio.",
+      "fonts": [
+        "sans-serif",
+        "monospace",
+        "PSTimes",
+        "HelveticaNeueRegular",
+        "HelveticaNeueLight",
+        "serif"
+      ],
+      "css_colors": [
+        "030303",
+        "e8e8e8",
+        "000",
+        "ff0",
+        "90ee90",
+        "ffffff"
+      ],
+      "og_image": "https://immersive-g.com/images/share/immersive-garden.jpg",
+      "fetch_error": "",
+      "colors": [
+        "#e7e7e7",
+        "#0a0a0a",
+        "#777777",
+        "#969696"
+      ],
+      "captured_at": "2026-09-16 15:53",
+      "elapsed_s": 20.3
+    },
+    {
+      "id": "makemepulse",
+      "name": "makemepulse",
+      "url": "https://makemepulse.com/",
+      "orig_url": "https://makemepulse.com/",
+      "tags": [
+        "WebGL",
+        "Three.js",
+        "创意工作室"
+      ],
+      "note": "",
+      "analysis": "Three.js 驱动的全球创意工作室，擅长粒子/流体/动态几何。把实验感握在「不过火」的分寸里，适合当 WebGL 项目的交付参考。",
+      "screenshot": "screenshots/makemepulse.png",
+      "title": "makemepulse — Global Creative Studio",
+      "description": "Global creative studio crafting standout digital platforms and immersive experiences. We combine strategic design with technical excellence to deliver innovative solutions.",
+      "fonts": [
+        "Biotif",
+        "Beatrice Display",
+        "monospace",
+        "inherit",
+        "system-ui",
+        "-apple-system"
+      ],
+      "css_colors": [
+        "000",
+        "fff",
+        "0f0f0f",
+        "bcbec0",
+        "f2f2f2",
+        "444"
+      ],
+      "og_image": "https://images.prismic.io/makemepulse/7820b0e5-9cc5-43e8-a093-7fcb89e2bf3d_makemepulse-background.png?auto=compress,format&rect=0,1,1601,838&w=1080&h=565",
+      "fetch_error": "",
+      "colors": [
+        "#b8b39b",
+        "#c2b495",
+        "#b0af9d",
+        "#b3b2a0",
+        "#aeb09d"
+      ],
+      "captured_at": "2026-09-16 15:54",
+      "elapsed_s": 16.8
+    },
+    {
+      "id": "unseen-studio",
+      "name": "Unseen Studio",
+      "url": "https://unseen.co/",
+      "orig_url": "https://unseen.co/",
+      "tags": [
+        "WebGL",
+        "品牌",
+        "动态",
+        "工作室"
+      ],
+      "note": "旗下 illoca.unseen.co 项目站已在画廊中",
+      "analysis": "Unseen Studio 主站，WebGL + 电影级动态的品牌叙事，沉稳高级，是「沉浸但克制」的机构官网范本。",
+      "screenshot": "screenshots/unseen-studio.png",
+      "title": "Unseen Studio® – Brand, Digital &amp; Motion",
+      "description": "We&#039;re Unseen Studio, a world-class creative production agency. We help brands transform by blending meaningful branding, compelling digital experiences and motion productions. Design Studio of the Year – Awwwards.",
+      "fonts": [
+        "inherit",
+        "Neue Montreal",
+        "Saol Display",
+        "sans-serif"
+      ],
+      "css_colors": [
+        "000000",
+        "212121",
+        "0a0a0a",
+        "fff",
+        "32373c",
+        "ffffff"
+      ],
+      "og_image": "https://unseen.co/wp-content/uploads/2022/11/social-meta.jpg",
+      "fetch_error": "",
+      "colors": [
+        "#eeddd8",
+        "#d7c8c4",
+        "#e3d3cf",
+        "#dfd0cb",
+        "#434242"
+      ],
+      "captured_at": "2026-09-16 15:54",
+      "elapsed_s": 36.9
+    },
+    {
+      "id": "obys-agency",
+      "name": "Obys Agency",
+      "url": "https://www.obys.agency/",
+      "orig_url": "https://www.obys.agency/",
+      "tags": [
+        "创意机构",
+        "排版",
+        "动效",
+        "WebGL"
+      ],
+      "note": "",
+      "analysis": "乌克兰 Obys Agency，超大字号 + 克制的交互过渡，排版与动效极具辨识度，Dribbble/Awwwards 常客，机构官网的个性标杆。",
+      "screenshot": "screenshots/obys-agency.png",
+      "title": "Obys Agency",
+      "description": "Concept-driven design studio based in the EU. Crafting award-winning brand and web experiences shaped by storytelling and strong visual systems.",
+      "fonts": [
+        "Obys",
+        "serif"
+      ],
+      "css_colors": [
+        "ffffff",
+        "fff",
+        "000"
+      ],
+      "og_image": "https://cms.obys.agency/uploads/large_Thumbnail_Obys_5419986743.webp",
+      "fetch_error": "",
+      "colors": [],
+      "captured_at": "2026-09-16 15:55",
+      "elapsed_s": 29.1
+    },
+    {
+      "id": "resn",
+      "name": "Resn",
+      "url": "https://resn.co.nz/",
+      "orig_url": "https://resn.co.nz/",
+      "tags": [
+        "创意机构",
+        "交互",
+        "幽默",
+        "动效"
+      ],
+      "note": "",
+      "analysis": "新西兰 Resn，全网最会「整活」的创意机构——官网风格随项目轮换、幽默感拉满，每次访问都是新体验，性格 > 炫技的典范。",
+      "screenshot": "screenshots/resn.png",
+      "title": "Resn - Creative Digital Agency | Ideation, Design, and Development",
+      "description": "Resn is a creative studio bringing brand, content and digital experiences to life through stories shaped with global brands and emerging innovators.",
+      "fonts": [],
+      "css_colors": [
+        "000000",
+        "121212",
+        "fff"
+      ],
+      "og_image": "http://resn.co.nz/resn-share.jpg?bar=2",
+      "fetch_error": "",
+      "colors": [],
+      "captured_at": "2026-09-16 15:56",
+      "elapsed_s": 98.6
+    },
+    {
+      "id": "basement-studio",
+      "name": "Basement Studio",
+      "url": "https://basement.studio/",
+      "orig_url": "https://basement.studio/",
+      "tags": [
+        "创意机构",
+        "街头风",
+        "微交互"
+      ],
+      "note": "",
+      "analysis": "「We make cool shit that performs.」暗黑街头风 + 密集微交互，年轻化机构官网的潮流范本。",
+      "screenshot": "screenshots/basement-studio.png",
+      "title": "basement.studio | We make cool shit that performs.",
+      "description": "basement.studio is a digital studio crafting brands, websites, 3D experiences, and products. We design and engineer cool shit that actually performs.",
+      "fonts": [],
+      "css_colors": [
+        "212121",
+        "1a1a1a"
+      ],
+      "og_image": "https://basement.studio/images/opengraph-image.gif",
+      "fetch_error": "",
+      "colors": [
+        "#000000",
+        "#e5e5e5",
+        "#161616",
+        "#c4c4c4",
+        "#2a2a2a"
+      ],
+      "captured_at": "2026-09-16 15:57",
+      "elapsed_s": 9.8
+    },
+    {
+      "id": "hello-monday",
+      "name": "Hello Monday",
+      "url": "https://www.hellomonday.com/",
+      "orig_url": "https://www.hellomonday.com/",
+      "tags": [
+        "创意机构",
+        "动效",
+        "玩趣"
+      ],
+      "note": "",
+      "analysis": "明亮玩趣的创意机构，鼠标跟随互动 + 活泼动效，记忆点强，做「有情绪」的官网参考。",
+      "screenshot": "screenshots/hello-monday.png",
+      "title": "Hello Monday",
+      "description": "Hello Monday is a creative studio in New York, Copenhagen, and Aarhus that handcrafts digital (and magical) products, brands, and experiences.",
+      "fonts": [],
+      "css_colors": [
+        "000000",
+        "ffffff",
+        "1d1f23",
+        "ffffff",
+        "1d1f23",
+        "5bbad5"
+      ],
+      "og_image": "https://www.hellomonday.com/assets/images/icons/hello_monday_default_meta.jpg",
+      "fetch_error": "",
+      "colors": [],
+      "captured_at": "2026-09-16 15:57",
+      "elapsed_s": 29.1
+    },
+    {
+      "id": "dogstudio",
+      "name": "Dogstudio",
+      "url": "https://dogstudio.co/",
+      "orig_url": "https://dogstudio.co/",
+      "tags": [
+        "创意机构",
+        "复古",
+        "动效"
+      ],
+      "note": "",
+      "analysis": "复古霓虹 + 强运动感的创意工作室，Awwwards 常客，把复古情调做出当代质感。",
+      "screenshot": "screenshots/dogstudio.png",
+      "title": "Dogstudio. Multidisciplinary Creative Studio.",
+      "description": "We are at the intersection of art, design and technology. Our goal is to deliver amazing experiences.",
+      "fonts": [],
+      "css_colors": [
+        "038"
+      ],
+      "og_image": "https://dogstudio.co/app/themes/portfolio-2018/static/assets/images/shared/share-facebook.jpg",
+      "fetch_error": "",
+      "colors": [
+        "#a29330",
+        "#e4ddd1",
+        "#edbc68",
+        "#eae3d6",
+        "#ddd7ca"
+      ],
+      "captured_at": "2026-09-16 15:57",
+      "elapsed_s": 14.4
+    },
+    {
+      "id": "stink-studios",
+      "name": "Stink Studios",
+      "url": "https://stinkstudios.com/",
+      "orig_url": "https://stinkstudios.com/",
+      "tags": [
+        "创意机构",
+        "WebGL",
+        "影视"
+      ],
+      "note": "",
+      "analysis": "WebGL 场景 + 锐利动效的全球创意厂牌，商业创意与技术的平衡范本。",
+      "screenshot": "screenshots/stink-studios.png",
+      "title": "Stink Studios | Stink Studios",
+      "description": "Stink Studios is a creative studio that moves fluidly between brand and digital customer experience.",
+      "fonts": [],
+      "css_colors": [
+        "fff",
+        "000",
+        "917164",
+        "573332",
+        "ffffff",
+        "9fc4a8"
+      ],
+      "og_image": "https://cdn.sanity.io/images/e2h42t5o/stage/68af8fc6aee8cbb405b3c8336ce8a5a7fc58bccd-1200x628.jpg?rect=2,0,1196,628&amp;w=1196&amp;h=628&amp;q=80&amp;fit=crop&amp;auto=format",
+      "fetch_error": "",
+      "colors": [
+        "#2c3b41",
+        "#364349",
+        "#d4c7c1",
+        "#d1c3bd",
+        "#bbb2a8"
+      ],
+      "captured_at": "2026-09-16 15:58",
+      "elapsed_s": 50.7
+    },
+    {
+      "id": "exo-ape",
+      "name": "Exo Ape",
+      "url": "https://www.exoape.com/",
+      "orig_url": "https://www.exoape.com/",
+      "tags": [
+        "创意机构",
+        "品牌",
+        "数字设计"
+      ],
+      "note": "",
+      "analysis": "全球数字设计工作室，动效 + 品牌定位成熟，通用型创意机构的落地范本。",
+      "screenshot": "screenshots/exo-ape.png",
+      "title": "Exo Ape - Global Digital Design Studio",
+      "description": "We partner with brands and businesses that create exceptional experiences where people live, work and unwind.",
+      "fonts": [
+        "inherit",
+        "Lausanne-300",
+        "Lausanne-400",
+        "Lausanne-500",
+        "var(--font-f-lausanne-300)",
+        "var(--font-f-lausanne-500)"
+      ],
+      "css_colors": [
+        "0d0e13",
+        "fff",
+        "e4e0db",
+        "e0ccbb",
+        "070707",
+        "f8f8f8"
+      ],
+      "og_image": "https://exoape.com/img/og/og.png",
+      "fetch_error": "",
+      "colors": [
+        "#2c73a5",
+        "#5795ba",
+        "#4689b4",
+        "#3579a9",
+        "#236a9b"
+      ],
+      "captured_at": "2026-09-16 15:59",
+      "elapsed_s": 33.8
+    },
+    {
+      "id": "locomotive",
+      "name": "Locomotive",
+      "url": "https://locomotive.ca/",
+      "orig_url": "https://locomotive.ca/",
+      "tags": [
+        "交互",
+        "平滑滚动",
+        "动效",
+        "工作室"
+      ],
+      "note": "",
+      "analysis": "蒙特利尔网页工作室，「平滑滚动」交互范式的开创者，滚动节奏与惯性物理打磨到极致，无数站点抄它的手感。",
+      "screenshot": "screenshots/locomotive.png",
+      "title": "Locomotive | Montreal web agency",
+      "description": "Locomotive® offers a wide range of creative and strategic services for remarkable brands, companies and organizations. Over the 15 years, Locomotive® has become a go-to for meaningful, innovative, results-driven digital experiences, web design and branding. Freshness guaranteed.",
+      "fonts": [
+        "monospace",
+        "inherit",
+        "ff("
+      ],
+      "css_colors": [
+        "039",
+        "000000",
+        "ffffff",
+        "da532c",
+        "ffffff",
+        "ccc"
+      ],
+      "og_image": "https://locomotive.ca/uploads/metadata/Open_Graph_Loco_%281%29.png",
+      "fetch_error": "",
+      "colors": [
+        "#000000",
+        "#fefefe",
+        "#171717",
+        "#363636",
+        "#808080"
+      ],
+      "captured_at": "2026-09-16 16:00",
+      "elapsed_s": 63.8
+    },
+    {
+      "id": "cuberto",
+      "name": "Cuberto",
+      "url": "https://cuberto.com/",
+      "orig_url": "https://cuberto.com/",
+      "tags": [
+        "交互动效",
+        "流体动效",
+        "UI"
+      ],
+      "note": "",
+      "analysis": "流体形变动效 + 极致顺滑的滚动过渡，数字产品动效的标杆，适合当 UI/交互动效参考。",
+      "screenshot": "screenshots/cuberto.png",
+      "title": "Cuberto | Digital Design &amp; Development Agency",
+      "description": "Cuberto is a UI/UX design agency based in USA. We specialise in UI/UX design, branding, web, and mobile development.",
+      "fonts": [],
+      "css_colors": [
+        "fff",
+        "000"
+      ],
+      "og_image": "",
+      "fetch_error": "",
+      "colors": [
+        "#e1d8cc",
+        "#d8a56b",
+        "#e9a448",
+        "#e5c7a7",
+        "#eaa655"
+      ],
+      "captured_at": "2026-09-16 16:01",
+      "elapsed_s": 65.0
+    },
+    {
+      "id": "14islands",
+      "name": "14islands",
+      "url": "https://14islands.com/",
+      "orig_url": "https://14islands.com/",
+      "tags": [
+        "Three.js",
+        "工作室",
+        "匠心",
+        "极简"
+      ],
+      "note": "",
+      "analysis": "斯德哥尔摩匠心工作室，Three.js + 细节至上的手工质感，北欧「克制的精致」代表。",
+      "screenshot": "screenshots/14islands.png",
+      "title": "",
+      "description": "",
+      "fonts": [],
+      "css_colors": [],
+      "og_image": "",
+      "fetch_error": "HTTP Error 308: Permanent Redirect",
+      "colors": [
+        "#d1ecf3",
+        "#ceebf2",
+        "#ecd9d7",
+        "#f4dad9",
+        "#e4cccb"
+      ],
+      "captured_at": "2026-09-16 16:01",
+      "elapsed_s": 11.7
+    },
+    {
+      "id": "media-monks",
+      "name": "Monks (MediaMonks)",
+      "url": "https://mediamonks.com/",
+      "orig_url": "https://mediamonks.com/",
+      "tags": [
+        "创意厂牌",
+        "WebGL",
+        "商业项目"
+      ],
+      "note": "原 MediaMonks，现已更名 Monks",
+      "analysis": "全球创意制作巨头，商业级 WebGL/交互动效项目的最高水准样本，看行业「天花板」怎么做。",
+      "screenshot": "screenshots/media-monks.png",
+      "title": "Monks",
+      "description": "We’re Monks – global content, data, media, and tech powerhouse. Our solution is simple and singular: Disrupting the industry, driven by digital.",
+      "fonts": [],
+      "css_colors": [
+        "2d2d2d",
+        "2d2d2d",
+        "eae8e4",
+        "039",
+        "ffb2e8",
+        "001d38"
+      ],
+      "og_image": "https://www.monks.com/data/styles/1200x630/s3/2024-07/monks-hero-image-16x9.jpg?VersionId=QVPYCz8N8fb59z_QZA7r.vvGkZGNUGch&amp;h=d1cb525d&amp;itok=gUAzZGbo",
+      "fetch_error": "",
+      "colors": [
+        "#1c2834",
+        "#66534d",
+        "#2b3544",
+        "#44332e",
+        "#523b38"
+      ],
+      "captured_at": "2026-09-16 16:02",
+      "elapsed_s": 50.8
+    },
+    {
+      "id": "ueno",
+      "name": "Ueno",
+      "url": "https://ueno.co/",
+      "orig_url": "https://ueno.co/",
+      "tags": [
+        "创意机构",
+        "极简",
+        "产品"
+      ],
+      "note": "",
+      "analysis": "旧金山战略设计与创新机构，极简但每个交互细节质感顶级，服务型机构的精致范本。",
+      "screenshot": "screenshots/ueno.png",
+      "title": "Ueno. | Strategic design and innovation agency",
+      "description": "Discover Ueno, a retired global design agency known for innovative solutions and strategic branding. We created impactful products and brands for top companies globally.",
+      "fonts": [],
+      "css_colors": [
+        "124",
+        "ffffff"
+      ],
+      "og_image": "http://static1.squarespace.com/static/6835dc1a79ec186da2951db7/t/68bf03dc0ddc3c70e0e8783d/1757348828940/social.jpg?format=1500w",
+      "fetch_error": "",
+      "colors": [
+        "#65472c",
+        "#243c43",
+        "#1d3238",
+        "#28434a",
+        "#664a32"
+      ],
+      "captured_at": "2026-09-16 16:02",
+      "elapsed_s": 22.8
+    },
+    {
+      "id": "bruno-simon",
+      "name": "Bruno Simon",
+      "url": "https://bruno-simon.com/",
+      "orig_url": "https://bruno-simon.com/",
+      "tags": [
+        "Three.js",
+        "作品集",
+        "3D",
+        "游戏"
+      ],
+      "note": "",
+      "analysis": "用 Three.js 做了一个可以「开车逛」的 3D 世界作品集，方向键驾驶。个人站里最出圈的一个，交互即内容。",
+      "screenshot": "screenshots/bruno-simon.png",
+      "title": "Bruno's",
+      "description": "Bruno Simon",
+      "fonts": [],
+      "css_colors": [
+        "ffffff",
+        "ffceca"
+      ],
+      "og_image": "https://bruno-simon.com/social/share-image.png?cb=a",
+      "fetch_error": "",
+      "colors": [
+        "#f08775",
+        "#5c2862",
+        "#952239",
+        "#a56937",
+        "#b4793d"
+      ],
+      "captured_at": "2026-09-16 16:04",
+      "elapsed_s": 96.7
+    },
+    {
+      "id": "aristide-benoist",
+      "name": "Aristide Benoist",
+      "url": "https://aristidebenoist.com/",
+      "orig_url": "https://aristidebenoist.com/",
+      "category": "个人作品集",
+      "tags": [
+        "WebGL",
+        "作品集",
+        "交互实验"
+      ],
+      "note": "",
+      "analysis": "独立开发者的 WebGL 作品集，进去就是纯交互实验，标新立异又克制，个人技术型作品集的标志。",
+      "screenshot": "screenshots/aristide-benoist.png",
+      "title": "Aristide Benoist — Independent developer",
+      "description": "Aristide Benoist is a developer who specializes in motion and interaction. As an independent, he works with companies, agencies, startups and individuals all over the world.",
+      "fonts": [
+        "Arial"
+      ],
+      "css_colors": [
+        "141414",
+        "bac4b8",
+        "fff",
+        "000",
+        "0b0c0c",
+        "171717"
+      ],
+      "og_image": "https://aristidebenoist.com/static/og/1200-630.jpg",
+      "fetch_error": "",
+      "colors": [
+        "#141414",
+        "#bac4b8",
+        "#222322",
+        "#98a097"
+      ],
+      "captured_at": "2026-09-16 16:05",
+      "elapsed_s": 5.6
+    },
+    {
+      "id": "david-heckhoff",
+      "name": "David Heckhoff",
+      "url": "https://david-hckh.com/",
+      "orig_url": "https://david-hckh.com/",
+      "category": "个人作品集",
+      "tags": [
+        "WebGL",
+        "作品集",
+        "着色器"
+      ],
+      "note": "",
+      "analysis": "WebGL 开发者个人站，粒子/着色器实验玩得花，前端创意技术方向的作品集样本。",
+      "screenshot": "screenshots/david-heckhoff.png",
+      "title": "David Heckhoff - Web Developer (WebGL & Node.js)",
+      "description": "Web developer creating interactive 3D web experiences and real-time apps with WebGL, TypeScript, and Node.js for high-performance, engaging websites.",
+      "fonts": [],
+      "css_colors": [
+        "dfd1bc"
+      ],
+      "og_image": "https://david-hckh.com/meta/og-image.webp",
+      "fetch_error": "",
+      "colors": [
+        "#f1e5d5",
+        "#dfd2bf",
+        "#e5d9c9",
+        "#dbcfc1",
+        "#d3c9ba"
+      ],
+      "captured_at": "2026-09-16 16:05",
+      "elapsed_s": 1.9
+    },
+    {
+      "id": "niccolo-miranda",
+      "name": "Niccolò Miranda",
+      "url": "https://niccolomiranda.com/",
+      "orig_url": "https://niccolomiranda.com/",
+      "category": "个人作品集",
+      "tags": [
+        "作品集",
+        "滚动叙事",
+        "创意"
+      ],
+      "note": "",
+      "analysis": "「Paper Portfolio」——纸张撕开翻转的卷轴式滚动叙事，创意叙事个人站的标杆。",
+      "screenshot": "screenshots/niccolo-miranda.png",
+      "title": "Miranda — Paper Portfolio",
+      "description": "",
+      "fonts": [],
+      "css_colors": [
+        "1d1d1b",
+        "cdc6be",
+        "96b59f",
+        "1d1d1b",
+        "000",
+        "cdc6be"
+      ],
+      "og_image": "",
+      "fetch_error": "",
+      "colors": [
+        "#567aa6",
+        "#6788b3",
+        "#6785aa",
+        "#486b96",
+        "#577499"
+      ],
+      "captured_at": "2026-09-16 16:05",
+      "elapsed_s": 4.9
     }
   ]
 }

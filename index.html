@@ -23,6 +23,15 @@
   .meta b { color:var(--text); }
   .grid { display:grid; gap:22px; margin-top:36px;
     grid-template-columns:repeat(auto-fill,minmax(340px,1fr)); }
+  .cat { margin-top:44px; }
+  .cat-title { font-size:20px; font-weight:700; letter-spacing:-.01em;
+    display:flex; align-items:center; gap:10px; }
+  .cat-title::before { content:""; width:9px; height:9px; border-radius:3px;
+    background:var(--accent); box-shadow:0 0 12px rgba(243,153,23,.55); }
+  .cat-count { font-size:12px; font-weight:600; color:var(--muted);
+    background:var(--panel); border:1px solid var(--line); border-radius:20px;
+    padding:2px 10px; }
+  .cat .grid { margin-top:18px; }
   .card { position:relative; border-radius:14px; overflow:hidden; background:var(--panel);
     border:1px solid var(--line); cursor:pointer; transition:transform .25s,border-color .25s,box-shadow .25s; }
   .card:hover,.card:focus { transform:translateY(-4px); border-color:#3a4048;
@@ -65,10 +74,49 @@
     <div class="kicker">Curated Design Inspiration</div>
     <h1>设计灵感墙</h1>
     <p class="sub">精选全球优秀的、酷炫的、前沿的网站案例。悬停卡片查看设计分析与配色提取；持续自动更新。</p>
-    <div class="meta">共 <b>21</b> 个案例 · 更新于 <b>2026-09-16 14:36</b></div>
+    <div class="meta">共 <b>42</b> 个案例 · 更新于 <b>2026-09-16 16:05</b></div>
   </header>
   <div class="grid">
+<section class="cat"><h2 class="cat-title">个人作品集<span class="cat-count">3</span></h2><div class="grid">
+    <article class="card" tabindex="0">
+      <div class="shot" style="background-image:url('assets/screenshots/aristide-benoist.png')"></div>
+      <div class="card-overlay">
+        <h3 class="card-name">Aristide Benoist</h3>
+        <p class="card-analysis">独立开发者的 WebGL 作品集，进去就是纯交互实验，标新立异又克制，个人技术型作品集的标志。</p>
+        <p class="card-desc">Aristide Benoist is a developer who specializes in motion and interaction. As an independent, he works with companies, agencies, startups an</p>
+        <div class="swatches"><span class="swatch" style="background:#141414" title="#141414"></span><span class="swatch" style="background:#bac4b8" title="#bac4b8"></span><span class="swatch" style="background:#222322" title="#222322"></span><span class="swatch" style="background:#98a097" title="#98a097"></span></div>
+        <div class="detail-row"><span class="k">字体</span><span class="font-chip">Arial</span></div><div class="detail-row"><span class="k">CSS 配色</span><span class="swatch" style="background:141414" title="141414"></span><span class="swatch" style="background:bac4b8" title="bac4b8"></span><span class="swatch" style="background:fff" title="fff"></span><span class="swatch" style="background:000" title="000"></span><span class="swatch" style="background:0b0c0c" title="0b0c0c"></span><span class="swatch" style="background:171717" title="171717"></span></div>
+        <a class="visit" href="https://aristidebenoist.com/" target="_blank" rel="noopener">访问站点 ↗</a>
+      </div>
+      <div class="card-tags"><span class="tag">WebGL</span><span class="tag">作品集</span><span class="tag">交互实验</span><span class="card-idx">#aristide-benoist</span></div>
+    </article>
 
+    <article class="card" tabindex="0">
+      <div class="shot" style="background-image:url('assets/screenshots/david-heckhoff.png')"></div>
+      <div class="card-overlay">
+        <h3 class="card-name">David Heckhoff</h3>
+        <p class="card-analysis">WebGL 开发者个人站，粒子/着色器实验玩得花，前端创意技术方向的作品集样本。</p>
+        <p class="card-desc">Web developer creating interactive 3D web experiences and real-time apps with WebGL, TypeScript, and Node.js for high-performance, engaging </p>
+        <div class="swatches"><span class="swatch" style="background:#f1e5d5" title="#f1e5d5"></span><span class="swatch" style="background:#dfd2bf" title="#dfd2bf"></span><span class="swatch" style="background:#e5d9c9" title="#e5d9c9"></span><span class="swatch" style="background:#dbcfc1" title="#dbcfc1"></span><span class="swatch" style="background:#d3c9ba" title="#d3c9ba"></span></div>
+        <div class="detail-row"><span class="k">CSS 配色</span><span class="swatch" style="background:dfd1bc" title="dfd1bc"></span></div>
+        <a class="visit" href="https://david-hckh.com/" target="_blank" rel="noopener">访问站点 ↗</a>
+      </div>
+      <div class="card-tags"><span class="tag">WebGL</span><span class="tag">作品集</span><span class="tag">着色器</span><span class="card-idx">#david-heckhoff</span></div>
+    </article>
+
+    <article class="card" tabindex="0">
+      <div class="shot" style="background-image:url('assets/screenshots/niccolo-miranda.png')"></div>
+      <div class="card-overlay">
+        <h3 class="card-name">Niccolò Miranda</h3>
+        <p class="card-analysis">「Paper Portfolio」——纸张撕开翻转的卷轴式滚动叙事，创意叙事个人站的标杆。</p>
+        
+        <div class="swatches"><span class="swatch" style="background:#567aa6" title="#567aa6"></span><span class="swatch" style="background:#6788b3" title="#6788b3"></span><span class="swatch" style="background:#6785aa" title="#6785aa"></span><span class="swatch" style="background:#486b96" title="#486b96"></span><span class="swatch" style="background:#577499" title="#577499"></span></div>
+        <div class="detail-row"><span class="k">CSS 配色</span><span class="swatch" style="background:1d1d1b" title="1d1d1b"></span><span class="swatch" style="background:cdc6be" title="cdc6be"></span><span class="swatch" style="background:96b59f" title="96b59f"></span><span class="swatch" style="background:1d1d1b" title="1d1d1b"></span><span class="swatch" style="background:000" title="000"></span><span class="swatch" style="background:cdc6be" title="cdc6be"></span></div>
+        <a class="visit" href="https://niccolomiranda.com/" target="_blank" rel="noopener">访问站点 ↗</a>
+      </div>
+      <div class="card-tags"><span class="tag">作品集</span><span class="tag">滚动叙事</span><span class="tag">创意</span><span class="card-idx">#niccolo-miranda</span></div>
+    </article></div></section>
+<section class="cat"><h2 class="cat-title">其他<span class="cat-count">39</span></h2><div class="grid">
     <article class="card" tabindex="0">
       <div class="shot" style="background-image:url('assets/screenshots/godly-website.png')"></div>
       <div class="card-overlay">
@@ -180,7 +228,7 @@
         <p class="card-analysis">以字体与排版为核心的设计工作室，界面极简、字距与层级精心控制，是「文字即设计」的典范。</p>
         <p class="card-desc">Counter Forms is a new typographic venture that seeks to champion young, discursive, Antipodean type designers.</p>
         <div class="swatches"><span class="swatch" style="background:#fefefe" title="#fefefe"></span><span class="swatch" style="background:#eeeeee" title="#eeeeee"></span><span class="swatch" style="background:#000000" title="#000000"></span><span class="swatch" style="background:#d5d5d5" title="#d5d5d5"></span><span class="swatch" style="background:#c8c8c8" title="#c8c8c8"></span></div>
-        <div class="detail-row"><span class="k">字体</span><span class="font-chip">Herbik Regular</span><span class="font-chip">Passenger Regular</span><span class="font-chip">Herbik ExtraBold</span><span class="font-chip">CounterFormsLoading</span></div>
+        <div class="detail-row"><span class="k">字体</span><span class="font-chip">Telas Medium</span><span class="font-chip">CounterFormsLoading</span><span class="font-chip">Pantasia Regular</span><span class="font-chip">Fugit Regular</span></div>
         <a class="visit" href="https://counter-forms.com" target="_blank" rel="noopener">访问站点 ↗</a>
       </div>
       <div class="card-tags"><span class="tag">工作室</span><span class="tag">排版</span><span class="tag">字体</span><span class="tag">极简</span><span class="card-idx">#counter-forms</span></div>
@@ -341,6 +389,240 @@
       </div>
       <div class="card-tags"><span class="tag">作品集</span><span class="tag">独立开发者</span><span class="tag">前端</span><span class="card-idx">#harry-atkins</span></div>
     </article>
+
+    <article class="card" tabindex="0">
+      <div class="shot" style="background-image:url('assets/screenshots/lusion.png')"></div>
+      <div class="card-overlay">
+        <h3 class="card-name">Lusion</h3>
+        <p class="card-analysis">Lusion 官方主站。WebGL 实时渲染的感性地标——定制十字光标、加载进度条即作品、12 个项目的 hover 图片流，把「交互即内容」做到极致，高级创意工作室的图腾级标杆。</p>
+        <p class="card-desc">We design and produce 3D visual storytelling, immersive websites, and interactive digital experiences that help brands stand out online.</p>
+        <div class="swatches"><span class="swatch" style="background:#000000" title="#000000"></span><span class="swatch" style="background:#ffffff" title="#ffffff"></span><span class="swatch" style="background:#4d4d4d" title="#4d4d4d"></span><span class="swatch" style="background:#d9d9d9" title="#d9d9d9"></span><span class="swatch" style="background:#7c7c7c" title="#7c7c7c"></span></div>
+        <div class="detail-row"><span class="k">CSS 配色</span><span class="swatch" style="background:000" title="000"></span><span class="swatch" style="background:fff" title="fff"></span><span class="swatch" style="background:000000" title="000000"></span><span class="swatch" style="background:ffffff" title="ffffff"></span><span class="swatch" style="background:1a1411" title="1a1411"></span><span class="swatch" style="background:ffedd7" title="ffedd7"></span></div>
+        <a class="visit" href="https://www.lusion.co/" target="_blank" rel="noopener">访问站点 ↗</a>
+      </div>
+      <div class="card-tags"><span class="tag">WebGL</span><span class="tag">沉浸式</span><span class="tag">创意工作室</span><span class="tag">交互动效</span><span class="card-idx">#lusion</span></div>
+    </article>
+
+    <article class="card" tabindex="0">
+      <div class="shot" style="background-image:url('assets/screenshots/active-theory.png')"></div>
+      <div class="card-overlay">
+        <h3 class="card-name">Active Theory</h3>
+        <p class="card-analysis">面向顶级品牌的沉浸式 WebGL 工作室，整站本身就是一段实时渲染体验，场景过渡极考究，是与 Lusion 同档的「体验优先」工作室范本。</p>
+        <p class="card-desc">Founded in 2012. We blend story, art &amp; technology as an in-house team of passionate makers. Our industry-leading web toolset consistentl</p>
+        <div class="swatches"><span class="swatch" style="background:#1b2533" title="#1b2533"></span><span class="swatch" style="background:#181a32" title="#181a32"></span><span class="swatch" style="background:#273556" title="#273556"></span><span class="swatch" style="background:#120e22" title="#120e22"></span><span class="swatch" style="background:#1a2746" title="#1a2746"></span></div>
+        <div class="detail-row"><span class="k">字体</span><span class="font-chip">Helvetica</span><span class="font-chip">Arial</span></div><div class="detail-row"><span class="k">CSS 配色</span><span class="swatch" style="background:333333" title="333333"></span><span class="swatch" style="background:ffffff" title="ffffff"></span><span class="swatch" style="background:000000" title="000000"></span><span class="swatch" style="background:000" title="000"></span></div>
+        <a class="visit" href="https://activetheory.net/" target="_blank" rel="noopener">访问站点 ↗</a>
+      </div>
+      <div class="card-tags"><span class="tag">WebGL</span><span class="tag">沉浸式</span><span class="tag">创意工作室</span><span class="card-idx">#active-theory</span></div>
+    </article>
+
+    <article class="card" tabindex="0">
+      <div class="shot" style="background-image:url('assets/screenshots/immersive-garden.png')"></div>
+      <div class="card-overlay">
+        <h3 class="card-name">Immersive Garden</h3>
+        <p class="card-analysis">WebGL 场景化开场 + 叙事型动效，用实时三维讲品牌故事，是商业 WebGL「沉浸但克制」的代表。</p>
+        <p class="card-desc">Immersive Garden, Innovative digital experience studio.</p>
+        <div class="swatches"><span class="swatch" style="background:#e7e7e7" title="#e7e7e7"></span><span class="swatch" style="background:#0a0a0a" title="#0a0a0a"></span><span class="swatch" style="background:#777777" title="#777777"></span><span class="swatch" style="background:#969696" title="#969696"></span></div>
+        <div class="detail-row"><span class="k">字体</span><span class="font-chip">sans-serif</span><span class="font-chip">monospace</span><span class="font-chip">PSTimes</span><span class="font-chip">HelveticaNeueRegular</span></div><div class="detail-row"><span class="k">CSS 配色</span><span class="swatch" style="background:030303" title="030303"></span><span class="swatch" style="background:e8e8e8" title="e8e8e8"></span><span class="swatch" style="background:000" title="000"></span><span class="swatch" style="background:ff0" title="ff0"></span><span class="swatch" style="background:90ee90" title="90ee90"></span><span class="swatch" style="background:ffffff" title="ffffff"></span></div>
+        <a class="visit" href="https://immersive-g.com/" target="_blank" rel="noopener">访问站点 ↗</a>
+      </div>
+      <div class="card-tags"><span class="tag">WebGL</span><span class="tag">沉浸式</span><span class="tag">品牌叙事</span><span class="card-idx">#immersive-garden</span></div>
+    </article>
+
+    <article class="card" tabindex="0">
+      <div class="shot" style="background-image:url('assets/screenshots/makemepulse.png')"></div>
+      <div class="card-overlay">
+        <h3 class="card-name">makemepulse</h3>
+        <p class="card-analysis">Three.js 驱动的全球创意工作室，擅长粒子/流体/动态几何。把实验感握在「不过火」的分寸里，适合当 WebGL 项目的交付参考。</p>
+        <p class="card-desc">Global creative studio crafting standout digital platforms and immersive experiences. We combine strategic design with technical excellence </p>
+        <div class="swatches"><span class="swatch" style="background:#b8b39b" title="#b8b39b"></span><span class="swatch" style="background:#c2b495" title="#c2b495"></span><span class="swatch" style="background:#b0af9d" title="#b0af9d"></span><span class="swatch" style="background:#b3b2a0" title="#b3b2a0"></span><span class="swatch" style="background:#aeb09d" title="#aeb09d"></span></div>
+        <div class="detail-row"><span class="k">字体</span><span class="font-chip">Biotif</span><span class="font-chip">Beatrice Display</span><span class="font-chip">monospace</span><span class="font-chip">inherit</span></div><div class="detail-row"><span class="k">CSS 配色</span><span class="swatch" style="background:000" title="000"></span><span class="swatch" style="background:fff" title="fff"></span><span class="swatch" style="background:0f0f0f" title="0f0f0f"></span><span class="swatch" style="background:bcbec0" title="bcbec0"></span><span class="swatch" style="background:f2f2f2" title="f2f2f2"></span><span class="swatch" style="background:444" title="444"></span></div>
+        <a class="visit" href="https://makemepulse.com/" target="_blank" rel="noopener">访问站点 ↗</a>
+      </div>
+      <div class="card-tags"><span class="tag">WebGL</span><span class="tag">Three.js</span><span class="tag">创意工作室</span><span class="card-idx">#makemepulse</span></div>
+    </article>
+
+    <article class="card" tabindex="0">
+      <div class="shot" style="background-image:url('assets/screenshots/unseen-studio.png')"></div>
+      <div class="card-overlay">
+        <h3 class="card-name">Unseen Studio</h3>
+        <p class="card-analysis">Unseen Studio 主站，WebGL + 电影级动态的品牌叙事，沉稳高级，是「沉浸但克制」的机构官网范本。</p>
+        <p class="card-desc">We&amp;#039;re Unseen Studio, a world-class creative production agency. We help brands transform by blending meaningful branding, compelling</p>
+        <div class="swatches"><span class="swatch" style="background:#eeddd8" title="#eeddd8"></span><span class="swatch" style="background:#d7c8c4" title="#d7c8c4"></span><span class="swatch" style="background:#e3d3cf" title="#e3d3cf"></span><span class="swatch" style="background:#dfd0cb" title="#dfd0cb"></span><span class="swatch" style="background:#434242" title="#434242"></span></div>
+        <div class="detail-row"><span class="k">字体</span><span class="font-chip">inherit</span><span class="font-chip">Neue Montreal</span><span class="font-chip">Saol Display</span><span class="font-chip">sans-serif</span></div><div class="detail-row"><span class="k">CSS 配色</span><span class="swatch" style="background:000000" title="000000"></span><span class="swatch" style="background:212121" title="212121"></span><span class="swatch" style="background:0a0a0a" title="0a0a0a"></span><span class="swatch" style="background:fff" title="fff"></span><span class="swatch" style="background:32373c" title="32373c"></span><span class="swatch" style="background:ffffff" title="ffffff"></span></div>
+        <a class="visit" href="https://unseen.co/" target="_blank" rel="noopener">访问站点 ↗</a>
+      </div>
+      <div class="card-tags"><span class="tag">WebGL</span><span class="tag">品牌</span><span class="tag">动态</span><span class="tag">工作室</span><span class="card-idx">#unseen-studio</span></div>
+    </article>
+
+    <article class="card" tabindex="0">
+      <div class="shot" style="background-image:url('assets/screenshots/obys-agency.png')"></div>
+      <div class="card-overlay">
+        <h3 class="card-name">Obys Agency</h3>
+        <p class="card-analysis">乌克兰 Obys Agency，超大字号 + 克制的交互过渡，排版与动效极具辨识度，Dribbble/Awwwards 常客，机构官网的个性标杆。</p>
+        <p class="card-desc">Concept-driven design studio based in the EU. Crafting award-winning brand and web experiences shaped by storytelling and strong visual syst</p>
+        <div class="swatches"><span class="swatch" style="background:ffffff" title="ffffff"></span><span class="swatch" style="background:fff" title="fff"></span><span class="swatch" style="background:000" title="000"></span></div>
+        <div class="detail-row"><span class="k">字体</span><span class="font-chip">Obys</span><span class="font-chip">serif</span></div><div class="detail-row"><span class="k">CSS 配色</span><span class="swatch" style="background:ffffff" title="ffffff"></span><span class="swatch" style="background:fff" title="fff"></span><span class="swatch" style="background:000" title="000"></span></div>
+        <a class="visit" href="https://www.obys.agency/" target="_blank" rel="noopener">访问站点 ↗</a>
+      </div>
+      <div class="card-tags"><span class="tag">创意机构</span><span class="tag">排版</span><span class="tag">动效</span><span class="tag">WebGL</span><span class="card-idx">#obys-agency</span></div>
+    </article>
+
+    <article class="card" tabindex="0">
+      <div class="shot" style="background-image:url('assets/screenshots/resn.png')"></div>
+      <div class="card-overlay">
+        <h3 class="card-name">Resn</h3>
+        <p class="card-analysis">新西兰 Resn，全网最会「整活」的创意机构——官网风格随项目轮换、幽默感拉满，每次访问都是新体验，性格 &gt; 炫技的典范。</p>
+        <p class="card-desc">Resn is a creative studio bringing brand, content and digital experiences to life through stories shaped with global brands and emerging inn</p>
+        <div class="swatches"><span class="swatch" style="background:000000" title="000000"></span><span class="swatch" style="background:121212" title="121212"></span><span class="swatch" style="background:fff" title="fff"></span></div>
+        <div class="detail-row"><span class="k">CSS 配色</span><span class="swatch" style="background:000000" title="000000"></span><span class="swatch" style="background:121212" title="121212"></span><span class="swatch" style="background:fff" title="fff"></span></div>
+        <a class="visit" href="https://resn.co.nz/" target="_blank" rel="noopener">访问站点 ↗</a>
+      </div>
+      <div class="card-tags"><span class="tag">创意机构</span><span class="tag">交互</span><span class="tag">幽默</span><span class="tag">动效</span><span class="card-idx">#resn</span></div>
+    </article>
+
+    <article class="card" tabindex="0">
+      <div class="shot" style="background-image:url('assets/screenshots/basement-studio.png')"></div>
+      <div class="card-overlay">
+        <h3 class="card-name">Basement Studio</h3>
+        <p class="card-analysis">「We make cool shit that performs.」暗黑街头风 + 密集微交互，年轻化机构官网的潮流范本。</p>
+        <p class="card-desc">basement.studio is a digital studio crafting brands, websites, 3D experiences, and products. We design and engineer cool shit that actually </p>
+        <div class="swatches"><span class="swatch" style="background:#000000" title="#000000"></span><span class="swatch" style="background:#e5e5e5" title="#e5e5e5"></span><span class="swatch" style="background:#161616" title="#161616"></span><span class="swatch" style="background:#c4c4c4" title="#c4c4c4"></span><span class="swatch" style="background:#2a2a2a" title="#2a2a2a"></span></div>
+        <div class="detail-row"><span class="k">CSS 配色</span><span class="swatch" style="background:212121" title="212121"></span><span class="swatch" style="background:1a1a1a" title="1a1a1a"></span></div>
+        <a class="visit" href="https://basement.studio/" target="_blank" rel="noopener">访问站点 ↗</a>
+      </div>
+      <div class="card-tags"><span class="tag">创意机构</span><span class="tag">街头风</span><span class="tag">微交互</span><span class="card-idx">#basement-studio</span></div>
+    </article>
+
+    <article class="card" tabindex="0">
+      <div class="shot" style="background-image:url('assets/screenshots/hello-monday.png')"></div>
+      <div class="card-overlay">
+        <h3 class="card-name">Hello Monday</h3>
+        <p class="card-analysis">明亮玩趣的创意机构，鼠标跟随互动 + 活泼动效，记忆点强，做「有情绪」的官网参考。</p>
+        <p class="card-desc">Hello Monday is a creative studio in New York, Copenhagen, and Aarhus that handcrafts digital (and magical) products, brands, and experience</p>
+        <div class="swatches"><span class="swatch" style="background:000000" title="000000"></span><span class="swatch" style="background:ffffff" title="ffffff"></span><span class="swatch" style="background:1d1f23" title="1d1f23"></span><span class="swatch" style="background:ffffff" title="ffffff"></span><span class="swatch" style="background:1d1f23" title="1d1f23"></span><span class="swatch" style="background:5bbad5" title="5bbad5"></span></div>
+        <div class="detail-row"><span class="k">CSS 配色</span><span class="swatch" style="background:000000" title="000000"></span><span class="swatch" style="background:ffffff" title="ffffff"></span><span class="swatch" style="background:1d1f23" title="1d1f23"></span><span class="swatch" style="background:ffffff" title="ffffff"></span><span class="swatch" style="background:1d1f23" title="1d1f23"></span><span class="swatch" style="background:5bbad5" title="5bbad5"></span></div>
+        <a class="visit" href="https://www.hellomonday.com/" target="_blank" rel="noopener">访问站点 ↗</a>
+      </div>
+      <div class="card-tags"><span class="tag">创意机构</span><span class="tag">动效</span><span class="tag">玩趣</span><span class="card-idx">#hello-monday</span></div>
+    </article>
+
+    <article class="card" tabindex="0">
+      <div class="shot" style="background-image:url('assets/screenshots/dogstudio.png')"></div>
+      <div class="card-overlay">
+        <h3 class="card-name">Dogstudio</h3>
+        <p class="card-analysis">复古霓虹 + 强运动感的创意工作室，Awwwards 常客，把复古情调做出当代质感。</p>
+        <p class="card-desc">We are at the intersection of art, design and technology. Our goal is to deliver amazing experiences.</p>
+        <div class="swatches"><span class="swatch" style="background:#a29330" title="#a29330"></span><span class="swatch" style="background:#e4ddd1" title="#e4ddd1"></span><span class="swatch" style="background:#edbc68" title="#edbc68"></span><span class="swatch" style="background:#eae3d6" title="#eae3d6"></span><span class="swatch" style="background:#ddd7ca" title="#ddd7ca"></span></div>
+        <div class="detail-row"><span class="k">CSS 配色</span><span class="swatch" style="background:038" title="038"></span></div>
+        <a class="visit" href="https://dogstudio.co/" target="_blank" rel="noopener">访问站点 ↗</a>
+      </div>
+      <div class="card-tags"><span class="tag">创意机构</span><span class="tag">复古</span><span class="tag">动效</span><span class="card-idx">#dogstudio</span></div>
+    </article>
+
+    <article class="card" tabindex="0">
+      <div class="shot" style="background-image:url('assets/screenshots/stink-studios.png')"></div>
+      <div class="card-overlay">
+        <h3 class="card-name">Stink Studios</h3>
+        <p class="card-analysis">WebGL 场景 + 锐利动效的全球创意厂牌，商业创意与技术的平衡范本。</p>
+        <p class="card-desc">Stink Studios is a creative studio that moves fluidly between brand and digital customer experience.</p>
+        <div class="swatches"><span class="swatch" style="background:#2c3b41" title="#2c3b41"></span><span class="swatch" style="background:#364349" title="#364349"></span><span class="swatch" style="background:#d4c7c1" title="#d4c7c1"></span><span class="swatch" style="background:#d1c3bd" title="#d1c3bd"></span><span class="swatch" style="background:#bbb2a8" title="#bbb2a8"></span></div>
+        <div class="detail-row"><span class="k">CSS 配色</span><span class="swatch" style="background:fff" title="fff"></span><span class="swatch" style="background:000" title="000"></span><span class="swatch" style="background:917164" title="917164"></span><span class="swatch" style="background:573332" title="573332"></span><span class="swatch" style="background:ffffff" title="ffffff"></span><span class="swatch" style="background:9fc4a8" title="9fc4a8"></span></div>
+        <a class="visit" href="https://stinkstudios.com/" target="_blank" rel="noopener">访问站点 ↗</a>
+      </div>
+      <div class="card-tags"><span class="tag">创意机构</span><span class="tag">WebGL</span><span class="tag">影视</span><span class="card-idx">#stink-studios</span></div>
+    </article>
+
+    <article class="card" tabindex="0">
+      <div class="shot" style="background-image:url('assets/screenshots/exo-ape.png')"></div>
+      <div class="card-overlay">
+        <h3 class="card-name">Exo Ape</h3>
+        <p class="card-analysis">全球数字设计工作室，动效 + 品牌定位成熟，通用型创意机构的落地范本。</p>
+        <p class="card-desc">We partner with brands and businesses that create exceptional experiences where people live, work and unwind.</p>
+        <div class="swatches"><span class="swatch" style="background:#2c73a5" title="#2c73a5"></span><span class="swatch" style="background:#5795ba" title="#5795ba"></span><span class="swatch" style="background:#4689b4" title="#4689b4"></span><span class="swatch" style="background:#3579a9" title="#3579a9"></span><span class="swatch" style="background:#236a9b" title="#236a9b"></span></div>
+        <div class="detail-row"><span class="k">字体</span><span class="font-chip">inherit</span><span class="font-chip">Lausanne-300</span><span class="font-chip">Lausanne-400</span><span class="font-chip">Lausanne-500</span></div><div class="detail-row"><span class="k">CSS 配色</span><span class="swatch" style="background:0d0e13" title="0d0e13"></span><span class="swatch" style="background:fff" title="fff"></span><span class="swatch" style="background:e4e0db" title="e4e0db"></span><span class="swatch" style="background:e0ccbb" title="e0ccbb"></span><span class="swatch" style="background:070707" title="070707"></span><span class="swatch" style="background:f8f8f8" title="f8f8f8"></span></div>
+        <a class="visit" href="https://www.exoape.com/" target="_blank" rel="noopener">访问站点 ↗</a>
+      </div>
+      <div class="card-tags"><span class="tag">创意机构</span><span class="tag">品牌</span><span class="tag">数字设计</span><span class="card-idx">#exo-ape</span></div>
+    </article>
+
+    <article class="card" tabindex="0">
+      <div class="shot" style="background-image:url('assets/screenshots/locomotive.png')"></div>
+      <div class="card-overlay">
+        <h3 class="card-name">Locomotive</h3>
+        <p class="card-analysis">蒙特利尔网页工作室，「平滑滚动」交互范式的开创者，滚动节奏与惯性物理打磨到极致，无数站点抄它的手感。</p>
+        <p class="card-desc">Locomotive® offers a wide range of creative and strategic services for remarkable brands, companies and organizations. Over the 15 years, Lo</p>
+        <div class="swatches"><span class="swatch" style="background:#000000" title="#000000"></span><span class="swatch" style="background:#fefefe" title="#fefefe"></span><span class="swatch" style="background:#171717" title="#171717"></span><span class="swatch" style="background:#363636" title="#363636"></span><span class="swatch" style="background:#808080" title="#808080"></span></div>
+        <div class="detail-row"><span class="k">字体</span><span class="font-chip">monospace</span><span class="font-chip">inherit</span><span class="font-chip">ff(</span></div><div class="detail-row"><span class="k">CSS 配色</span><span class="swatch" style="background:039" title="039"></span><span class="swatch" style="background:000000" title="000000"></span><span class="swatch" style="background:ffffff" title="ffffff"></span><span class="swatch" style="background:da532c" title="da532c"></span><span class="swatch" style="background:ffffff" title="ffffff"></span><span class="swatch" style="background:ccc" title="ccc"></span></div>
+        <a class="visit" href="https://locomotive.ca/" target="_blank" rel="noopener">访问站点 ↗</a>
+      </div>
+      <div class="card-tags"><span class="tag">交互</span><span class="tag">平滑滚动</span><span class="tag">动效</span><span class="tag">工作室</span><span class="card-idx">#locomotive</span></div>
+    </article>
+
+    <article class="card" tabindex="0">
+      <div class="shot" style="background-image:url('assets/screenshots/cuberto.png')"></div>
+      <div class="card-overlay">
+        <h3 class="card-name">Cuberto</h3>
+        <p class="card-analysis">流体形变动效 + 极致顺滑的滚动过渡，数字产品动效的标杆，适合当 UI/交互动效参考。</p>
+        <p class="card-desc">Cuberto is a UI/UX design agency based in USA. We specialise in UI/UX design, branding, web, and mobile development.</p>
+        <div class="swatches"><span class="swatch" style="background:#e1d8cc" title="#e1d8cc"></span><span class="swatch" style="background:#d8a56b" title="#d8a56b"></span><span class="swatch" style="background:#e9a448" title="#e9a448"></span><span class="swatch" style="background:#e5c7a7" title="#e5c7a7"></span><span class="swatch" style="background:#eaa655" title="#eaa655"></span></div>
+        <div class="detail-row"><span class="k">CSS 配色</span><span class="swatch" style="background:fff" title="fff"></span><span class="swatch" style="background:000" title="000"></span></div>
+        <a class="visit" href="https://cuberto.com/" target="_blank" rel="noopener">访问站点 ↗</a>
+      </div>
+      <div class="card-tags"><span class="tag">交互动效</span><span class="tag">流体动效</span><span class="tag">UI</span><span class="card-idx">#cuberto</span></div>
+    </article>
+
+    <article class="card" tabindex="0">
+      <div class="shot" style="background-image:url('assets/screenshots/14islands.png')"></div>
+      <div class="card-overlay">
+        <h3 class="card-name">14islands</h3>
+        <p class="card-analysis">斯德哥尔摩匠心工作室，Three.js + 细节至上的手工质感，北欧「克制的精致」代表。</p>
+        
+        <div class="swatches"><span class="swatch" style="background:#d1ecf3" title="#d1ecf3"></span><span class="swatch" style="background:#ceebf2" title="#ceebf2"></span><span class="swatch" style="background:#ecd9d7" title="#ecd9d7"></span><span class="swatch" style="background:#f4dad9" title="#f4dad9"></span><span class="swatch" style="background:#e4cccb" title="#e4cccb"></span></div>
+        
+        <a class="visit" href="https://14islands.com/" target="_blank" rel="noopener">访问站点 ↗</a>
+      </div>
+      <div class="card-tags"><span class="tag">Three.js</span><span class="tag">工作室</span><span class="tag">匠心</span><span class="tag">极简</span><span class="card-idx">#14islands</span></div>
+    </article>
+
+    <article class="card" tabindex="0">
+      <div class="shot" style="background-image:url('assets/screenshots/media-monks.png')"></div>
+      <div class="card-overlay">
+        <h3 class="card-name">Monks (MediaMonks)</h3>
+        <p class="card-analysis">全球创意制作巨头，商业级 WebGL/交互动效项目的最高水准样本，看行业「天花板」怎么做。</p>
+        <p class="card-desc">We’re Monks – global content, data, media, and tech powerhouse. Our solution is simple and singular: Disrupting the industry, driven by digi</p>
+        <div class="swatches"><span class="swatch" style="background:#1c2834" title="#1c2834"></span><span class="swatch" style="background:#66534d" title="#66534d"></span><span class="swatch" style="background:#2b3544" title="#2b3544"></span><span class="swatch" style="background:#44332e" title="#44332e"></span><span class="swatch" style="background:#523b38" title="#523b38"></span></div>
+        <div class="detail-row"><span class="k">CSS 配色</span><span class="swatch" style="background:2d2d2d" title="2d2d2d"></span><span class="swatch" style="background:2d2d2d" title="2d2d2d"></span><span class="swatch" style="background:eae8e4" title="eae8e4"></span><span class="swatch" style="background:039" title="039"></span><span class="swatch" style="background:ffb2e8" title="ffb2e8"></span><span class="swatch" style="background:001d38" title="001d38"></span></div>
+        <a class="visit" href="https://mediamonks.com/" target="_blank" rel="noopener">访问站点 ↗</a>
+      </div>
+      <div class="card-tags"><span class="tag">创意厂牌</span><span class="tag">WebGL</span><span class="tag">商业项目</span><span class="card-idx">#media-monks</span></div>
+    </article>
+
+    <article class="card" tabindex="0">
+      <div class="shot" style="background-image:url('assets/screenshots/ueno.png')"></div>
+      <div class="card-overlay">
+        <h3 class="card-name">Ueno</h3>
+        <p class="card-analysis">旧金山战略设计与创新机构，极简但每个交互细节质感顶级，服务型机构的精致范本。</p>
+        <p class="card-desc">Discover Ueno, a retired global design agency known for innovative solutions and strategic branding. We created impactful products and brand</p>
+        <div class="swatches"><span class="swatch" style="background:#65472c" title="#65472c"></span><span class="swatch" style="background:#243c43" title="#243c43"></span><span class="swatch" style="background:#1d3238" title="#1d3238"></span><span class="swatch" style="background:#28434a" title="#28434a"></span><span class="swatch" style="background:#664a32" title="#664a32"></span></div>
+        <div class="detail-row"><span class="k">CSS 配色</span><span class="swatch" style="background:124" title="124"></span><span class="swatch" style="background:ffffff" title="ffffff"></span></div>
+        <a class="visit" href="https://ueno.co/" target="_blank" rel="noopener">访问站点 ↗</a>
+      </div>
+      <div class="card-tags"><span class="tag">创意机构</span><span class="tag">极简</span><span class="tag">产品</span><span class="card-idx">#ueno</span></div>
+    </article>
+
+    <article class="card" tabindex="0">
+      <div class="shot" style="background-image:url('assets/screenshots/bruno-simon.png')"></div>
+      <div class="card-overlay">
+        <h3 class="card-name">Bruno Simon</h3>
+        <p class="card-analysis">用 Three.js 做了一个可以「开车逛」的 3D 世界作品集，方向键驾驶。个人站里最出圈的一个，交互即内容。</p>
+        <p class="card-desc">Bruno Simon</p>
+        <div class="swatches"><span class="swatch" style="background:#f08775" title="#f08775"></span><span class="swatch" style="background:#5c2862" title="#5c2862"></span><span class="swatch" style="background:#952239" title="#952239"></span><span class="swatch" style="background:#a56937" title="#a56937"></span><span class="swatch" style="background:#b4793d" title="#b4793d"></span></div>
+        <div class="detail-row"><span class="k">CSS 配色</span><span class="swatch" style="background:ffffff" title="ffffff"></span><span class="swatch" style="background:ffceca" title="ffceca"></span></div>
+        <a class="visit" href="https://bruno-simon.com/" target="_blank" rel="noopener">访问站点 ↗</a>
+      </div>
+      <div class="card-tags"><span class="tag">Three.js</span><span class="tag">作品集</span><span class="tag">3D</span><span class="tag">游戏</span><span class="card-idx">#bruno-simon</span></div>
+    </article></div></section>
   </div>
   <footer>Design Inspiration Gallery · 自动采集 + GitHub Pages 托管</footer>
 </div>

@@ -231,6 +231,7 @@ def capture_one(site, force):
     rec = {
         "id": site["id"], "name": site["name"], "url": site["url"],
         "orig_url": site.get("orig_url", site["url"]),
+        "category": site.get("category", ""),
         "tags": site.get("tags", []), "note": site.get("note", ""),
         "analysis": site.get("analysis", ""),
         "screenshot": f"screenshots/{site['id']}.png" if shot else None,

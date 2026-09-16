@@ -6,6 +6,10 @@ BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(BASE, "data")
 SHOTS = os.path.join(BASE, "screenshots")
 ASSETS = os.path.join(BASE, "assets", "screenshots")
+COVERS = os.path.join(BASE, "covers")
+
+# 分类展示顺序（covers.py / curate.py 与此保持一致）
+CATEGORY_ORDER = ["WebGL·沉浸式", "创意机构·个性", "交互·动效标杆", "个人作品集", "品牌·建筑", "灵感画廊·工具"]
 
 
 def esc(s):
@@ -61,16 +65,37 @@ def main():
     sites = data.get("sites", [])
     updated = esc(data.get("updated_at", ""))
 
-    # 拷贝截图资源
+    # 拷贝封面资源（优先 covers/ 的优化封面，回退 screenshots/ 原图）
     os.makedirs(ASSETS, exist_ok=True)
     copied = 0
     for s in sites:
-        src = os.path.join(SHOTS, f"{s['id']}.png")
+        src = os.path.join(COVERS, f"{s['id']}.png")
+        if not os.path.exists(src):
+            src = os.path.join(SHOTS, f"{s['id']}.png")
         if os.path.exists(src):
             shutil.copy2(src, os.path.join(ASSETS, f"{s['id']}.png"))
             copied += 1
 
-    cards_html = "\n".join(card(s) for s in sites)
+    # 按分类分组渲染
+    groups = {c: [] for c in CATEGORY_ORDER}
+    groups["其他"] = []
+    for s in sites:
+        cat = s.get("category", "") or "其他"
+        if cat in groups:
+            groups[cat].append(s)
+        else:
+            groups["其他"].append(s)
+    sections = []
+    for cat in CATEGORY_ORDER + ["其他"]:
+        items = groups.get(cat, [])
+        if not items:
+            continue
+        inner = "\n".join(card(s) for s in items)
+        sections.append(
+            f'<section class="cat"><h2 class="cat-title">{esc(cat)}'
+            f'<span class="cat-count">{len(items)}</span></h2>'
+            f'<div class="grid">{inner}</div></section>')
+    cards_html = "\n".join(sections)
 
     page = f'''<!DOCTYPE html>
 <html lang="zh-CN">
@@ -97,6 +122,15 @@ def main():
   .meta b {{ color:var(--text); }}
   .grid {{ display:grid; gap:22px; margin-top:36px;
     grid-template-columns:repeat(auto-fill,minmax(340px,1fr)); }}
+  .cat {{ margin-top:44px; }}
+  .cat-title {{ font-size:20px; font-weight:700; letter-spacing:-.01em;
+    display:flex; align-items:center; gap:10px; }}
+  .cat-title::before {{ content:""; width:9px; height:9px; border-radius:3px;
+    background:var(--accent); box-shadow:0 0 12px rgba(243,153,23,.55); }}
+  .cat-count {{ font-size:12px; font-weight:600; color:var(--muted);
+    background:var(--panel); border:1px solid var(--line); border-radius:20px;
+    padding:2px 10px; }}
+  .cat .grid {{ margin-top:18px; }}
   .card {{ position:relative; border-radius:14px; overflow:hidden; background:var(--panel);
     border:1px solid var(--line); cursor:pointer; transition:transform .25s,border-color .25s,box-shadow .25s; }}
   .card:hover,.card:focus {{ transform:translateY(-4px); border-color:#3a4048;

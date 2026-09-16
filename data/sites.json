@@ -5,172 +5,579 @@
       "name": "Godly",
       "url": "https://godly.website/",
       "orig_url": "https://godly.design/",
-      "tags": ["灵感画廊", "网页设计", "动效", "排版"],
+      "tags": [
+        "灵感画廊",
+        "网页设计",
+        "动效",
+        "排版"
+      ],
       "note": "全球优秀网站灵感集，现已跳转至 recent.design",
-      "analysis": "全球顶尖网页设计灵感画廊。收录大量沉浸式滚动动效、大胆的字体排版与高对比配色案例，是判断「当前网页设计风向」的标杆站点。"
+      "analysis": "全球顶尖网页设计灵感画廊。收录大量沉浸式滚动动效、大胆的字体排版与高对比配色案例，是判断「当前网页设计风向」的标杆站点。",
+      "category": "灵感画廊·工具"
     },
     {
       "id": "unicorn-studio",
       "name": "Unicorn Studio",
       "url": "https://www.unicorn.studio/",
       "orig_url": "https://www.unicorn.studio/dashboard",
-      "tags": ["WebGL", "动效", "创意技术"],
+      "tags": [
+        "WebGL",
+        "动效",
+        "创意技术"
+      ],
       "note": "你给的是登录后的 dashboard，已改截公开首页",
-      "analysis": "面向创意前端的 WebGL 动效工具/案例库。首页即是一组炫目的实时着色器与粒子动效，代表「生成艺术 + 交互动效」在商业网页里的最新应用方式。"
+      "analysis": "面向创意前端的 WebGL 动效工具/案例库。首页即是一组炫目的实时着色器与粒子动效，代表「生成艺术 + 交互动效」在商业网页里的最新应用方式。",
+      "category": "WebGL·沉浸式"
     },
     {
       "id": "reactbits",
       "name": "React Bits",
       "url": "https://reactbits.dev/",
       "orig_url": "https://reactbits.dev/get-started/index",
-      "tags": ["组件库", "动画", "React", "UI"],
+      "tags": [
+        "组件库",
+        "动画",
+        "React",
+        "UI"
+      ],
       "note": "你给的是文档页，已改截首页（动画 showcase 更直观）",
-      "analysis": "开源的 React 动效组件库（你项目里正在用）。首页用「实时可交互的动画组件」作为展示，代表了微交互、粒子、文字动效等 UI 细节的前沿做法。"
+      "analysis": "开源的 React 动效组件库（你项目里正在用）。首页用「实时可交互的动画组件」作为展示，代表了微交互、粒子、文字动效等 UI 细节的前沿做法。",
+      "category": "灵感画廊·工具"
     },
     {
       "id": "reactbits-pro",
       "name": "React Bits Pro",
       "url": "https://pro.reactbits.dev/",
       "orig_url": "https://pro.reactbits.dev/docs/components",
-      "tags": ["组件库", "动画", "React", "Pro"],
+      "tags": [
+        "组件库",
+        "动画",
+        "React",
+        "Pro"
+      ],
       "note": "已去掉追踪参数，改截首页",
-      "analysis": "React Bits 的 Pro 进阶版，提供更复杂的 3D、着色器与高级动效组件，是「商业级前端动效组件」的高质量样本。"
+      "analysis": "React Bits 的 Pro 进阶版，提供更复杂的 3D、着色器与高级动效组件，是「商业级前端动效组件」的高质量样本。",
+      "category": "灵感画廊·工具"
     },
     {
       "id": "huy-phan",
       "name": "Huy Phan",
       "url": "https://huyml.co/",
-      "tags": ["作品集", "交互设计", "动效", "个人网站"],
+      "tags": [
+        "作品集",
+        "交互设计",
+        "动效",
+        "个人网站"
+      ],
       "note": "来源：Awwwards 精选（自主搜集）",
-      "analysis": "获奖设计师 Huy Phan 的个人作品集。用大胆的动效与排版呈现项目，交互细节写得克制又高级，是顶尖个人站/作品集的标杆。"
+      "analysis": "获奖设计师 Huy Phan 的个人作品集。用大胆的动效与排版呈现项目，交互细节写得克制又高级，是顶尖个人站/作品集的标杆。",
+      "category": "个人作品集"
     },
     {
       "id": "illoca-unseen",
       "name": "Illoca · Unseen",
       "url": "https://illoca.unseen.co/",
-      "tags": ["WebGL", "创意技术", "建筑", "沉浸式"],
+      "tags": [
+        "WebGL",
+        "创意技术",
+        "建筑",
+        "沉浸式"
+      ],
       "note": "来源：Awwwards 精选（自主搜集）",
-      "analysis": "英国创意技术工作室 Unseen 的建筑项目站，主打沉浸式 WebGL 与空间化叙事，代表「生成艺术 + 实时三维」在品牌官网里的前沿方向。"
+      "analysis": "英国创意技术工作室 Unseen 的建筑项目站，主打沉浸式 WebGL 与空间化叙事，代表「生成艺术 + 实时三维」在品牌官网里的前沿方向。",
+      "category": "WebGL·沉浸式"
     },
     {
       "id": "merlin-studio",
       "name": "Merlin Studio",
       "url": "https://merlin.studio/",
-      "tags": ["工作室", "品牌", "动效", "数字设计"],
+      "tags": [
+        "工作室",
+        "品牌",
+        "动效",
+        "数字设计"
+      ],
       "note": "来源：Awwwards 精选（自主搜集）",
-      "analysis": "精品数字工作室官网。简洁克制的高级感设计，靠细腻的动效、字距与留白营造质感，是「少即是多」型机构站的好样本。"
+      "analysis": "精品数字工作室官网。简洁克制的高级感设计，靠细腻的动效、字距与留白营造质感，是「少即是多」型机构站的好样本。",
+      "category": "创意机构·个性"
     },
     {
       "id": "sadu-media",
       "name": "Sadu Media",
       "url": "https://www.sadumedia.com/",
-      "tags": ["影视制作", "品牌", "视觉", "中东"],
+      "tags": [
+        "影视制作",
+        "品牌",
+        "视觉",
+        "中东"
+      ],
       "note": "来源：Awwwards 精选（自主搜集）",
-      "analysis": "沙特获奖影视制作公司官网，浓郁的地域文化风格 + 电影级视觉呈现，是「影视/制作类品牌」做高级官网的参考。"
+      "analysis": "沙特获奖影视制作公司官网，浓郁的地域文化风格 + 电影级视觉呈现，是「影视/制作类品牌」做高级官网的参考。",
+      "category": "品牌·建筑"
     },
     {
       "id": "counter-forms",
       "name": "Counter Forms",
       "url": "https://counter-forms.com",
-      "tags": ["工作室", "排版", "字体", "极简"],
+      "tags": [
+        "工作室",
+        "排版",
+        "字体",
+        "极简"
+      ],
       "note": "来源：自主搜集",
-      "analysis": "以字体与排版为核心的设计工作室，界面极简、字距与层级精心控制，是「文字即设计」的典范。"
+      "analysis": "以字体与排版为核心的设计工作室，界面极简、字距与层级精心控制，是「文字即设计」的典范。",
+      "category": "创意机构·个性"
     },
     {
       "id": "snohetta",
       "name": "Snøhetta",
       "url": "https://www.snohetta.com",
-      "tags": ["建筑", "设计", "品牌", "沉浸式"],
+      "tags": [
+        "建筑",
+        "设计",
+        "品牌",
+        "沉浸式"
+      ],
       "note": "来源：自主搜集",
-      "analysis": "挪威传奇建筑与设计事务所官网。大图沉浸式叙事 + 克制的信息层级，把建筑作品集做得像展览。"
+      "analysis": "挪威传奇建筑与设计事务所官网。大图沉浸式叙事 + 克制的信息层级，把建筑作品集做得像展览。",
+      "category": "品牌·建筑"
     },
     {
       "id": "mobbin",
       "name": "Mobbin",
       "url": "https://mobbin.com",
-      "tags": ["UI参考", "设计灵感", "产品", "App"],
+      "tags": [
+        "UI参考",
+        "设计灵感",
+        "产品",
+        "App"
+      ],
       "note": "来源：自主搜集",
-      "analysis": "全球最大的 App/网页 UI 参考库之一。产品本身设计精美，收录海量真实应用截图，UI 设计师的日常灵感来源。"
+      "analysis": "全球最大的 App/网页 UI 参考库之一。产品本身设计精美，收录海量真实应用截图，UI 设计师的日常灵感来源。",
+      "category": "灵感画廊·工具"
     },
     {
       "id": "refokus",
       "name": "Refokus",
       "url": "https://www.refokus.com",
-      "tags": ["代理", "B2B", "品牌", "Web开发"],
+      "tags": [
+        "代理",
+        "B2B",
+        "品牌",
+        "Web开发"
+      ],
       "note": "来源：自主搜集",
-      "analysis": "专注 B2B 科技创业公司的品牌与网页设计代理。动效克制、面向转化的设计，是服务型机构官网的参考。"
+      "analysis": "专注 B2B 科技创业公司的品牌与网页设计代理。动效克制、面向转化的设计，是服务型机构官网的参考。",
+      "category": "创意机构·个性"
     },
     {
       "id": "warren-mahoney",
       "name": "Warren & Mahoney Architects",
       "url": "https://wam.studio/",
-      "tags": ["建筑", "事务所", "作品集", "品牌"],
+      "tags": [
+        "建筑",
+        "事务所",
+        "作品集",
+        "品牌"
+      ],
       "note": "来源：自主搜集",
-      "analysis": "新西兰知名建筑事务所官网。大幅建筑摄影 + 克制的排版做沉浸式作品集叙事，是「建筑/空间类机构」做高级官网的标杆。"
+      "analysis": "新西兰知名建筑事务所官网。大幅建筑摄影 + 克制的排版做沉浸式作品集叙事，是「建筑/空间类机构」做高级官网的标杆。",
+      "category": "品牌·建筑"
     },
     {
       "id": "patrick-mason-studio",
       "name": "Patrick Mason Studio",
       "url": "https://patrickmason.studio/",
-      "tags": ["作品集", "个人站", "设计工作室", "动效"],
+      "tags": [
+        "作品集",
+        "个人站",
+        "设计工作室",
+        "动效"
+      ],
       "note": "来源：自主搜集",
-      "analysis": "独立设计师 Patrick Mason 的工作室作品集。大胆的排版与精致的交互细节呈现项目，是个人作品集/独立工作室站的高质量样本。"
+      "analysis": "独立设计师 Patrick Mason 的工作室作品集。大胆的排版与精致的交互细节呈现项目，是个人作品集/独立工作室站的高质量样本。",
+      "category": "个人作品集"
     },
     {
       "id": "viens-la",
       "name": "Viens-là",
       "url": "https://viens-la.com/",
-      "tags": ["工作室", "品牌", "数字设计", "巴黎"],
+      "tags": [
+        "工作室",
+        "品牌",
+        "数字设计",
+        "巴黎"
+      ],
       "note": "来源：自主搜集",
-      "analysis": "巴黎数字与品牌设计工作室，专注定制网站与视觉识别，获 Awwwards 认可。官网前卫又克制，是欧洲创意工作室的最新风向。"
+      "analysis": "巴黎数字与品牌设计工作室，专注定制网站与视觉识别，获 Awwwards 认可。官网前卫又克制，是欧洲创意工作室的最新风向。",
+      "category": "创意机构·个性"
     },
     {
       "id": "middle-name-co",
       "name": "Middle Name Communications",
       "url": "https://middlename.co/",
-      "tags": ["创意机构", "品牌", "传播", "动效"],
+      "tags": [
+        "创意机构",
+        "品牌",
+        "传播",
+        "动效"
+      ],
       "note": "来源：自主搜集",
-      "analysis": "创意传播机构官网，鲜明的品牌调性 + 活泼的动效与排版，代表「创意传播类机构」做官网的潮流做法。"
+      "analysis": "创意传播机构官网，鲜明的品牌调性 + 活泼的动效与排版，代表「创意传播类机构」做官网的潮流做法。",
+      "category": "创意机构·个性"
     },
     {
       "id": "astro-dither",
       "name": "AstroDither — Robert Borghesi LAB",
       "url": "https://astrodither.robertborghesi.is/",
-      "tags": ["WebGL", "WebGPU", "生成艺术", "创意技术", "动效"],
+      "tags": [
+        "WebGL",
+        "WebGPU",
+        "生成艺术",
+        "创意技术",
+        "动效"
+      ],
       "note": "来源：自主搜集",
-      "analysis": "音频响应的 Three.js/WebGPU 实时流体模拟 + dithering 实验站，SIGNAL LOST 赛博颓废美学拉满，是「生成艺术 + 创意技术」的极致样本。"
+      "analysis": "音频响应的 Three.js/WebGPU 实时流体模拟 + dithering 实验站，SIGNAL LOST 赛博颓废美学拉满，是「生成艺术 + 创意技术」的极致样本。",
+      "category": "WebGL·沉浸式"
     },
     {
       "id": "nothing-to-watch",
       "name": "There's Nothing to Watch",
       "url": "https://nothing-to-watch.port80.ch/",
-      "tags": ["数据可视化", "交互", "影视", "创意技术"],
+      "tags": [
+        "数据可视化",
+        "交互",
+        "影视",
+        "创意技术"
+      ],
       "note": "来源：自主搜集",
-      "analysis": "用 force-directed + voronoi 图可视化上万部电影，拖动探索的交互感极强，是「交互式数据叙事」的范本级站点。"
+      "analysis": "用 force-directed + voronoi 图可视化上万部电影，拖动探索的交互感极强，是「交互式数据叙事」的范本级站点。",
+      "category": "WebGL·沉浸式"
     },
     {
       "id": "cathy-dolle",
       "name": "Cathy Dolle",
       "url": "https://www.cathydolle.com/",
-      "tags": ["作品集", "交互设计", "极简", "个人站"],
+      "tags": [
+        "作品集",
+        "交互设计",
+        "极简",
+        "个人站"
+      ],
       "note": "来源：自主搜集",
-      "analysis": "交互设计师 Cathy Dolle 的个人站，极简克制却在字距、留白与动效细节上打磨到位，安静而有质感。"
+      "analysis": "交互设计师 Cathy Dolle 的个人站，极简克制却在字距、留白与动效细节上打磨到位，安静而有质感。",
+      "category": "个人作品集"
     },
     {
       "id": "dirtverse",
       "name": "Dirt",
       "url": "https://dirtverse.co/",
-      "tags": ["创意工作室", "品牌", "态度", "视觉"],
+      "tags": [
+        "创意工作室",
+        "品牌",
+        "态度",
+        "视觉"
+      ],
       "note": "来源：自主搜集",
-      "analysis": "面向 real-world 品牌的全球创意工作室，官网满是个性与态度、视觉大胆，是「有性格的机构站」风向标。"
+      "analysis": "面向 real-world 品牌的全球创意工作室，官网满是个性与态度、视觉大胆，是「有性格的机构站」风向标。",
+      "category": "创意机构·个性"
     },
     {
       "id": "harry-atkins",
       "name": "Harry Atkins",
       "url": "https://harryjatkins.com/",
-      "tags": ["作品集", "独立开发者", "前端"],
+      "tags": [
+        "作品集",
+        "独立开发者",
+        "前端"
+      ],
       "note": "来源：自主搜集",
-      "analysis": "独立前端开发者的个人站，简洁利落地展示作品与思考，是「开发者做个人站」的高分样板。"
+      "analysis": "独立前端开发者的个人站，简洁利落地展示作品与思考，是「开发者做个人站」的高分样板。",
+      "category": "个人作品集"
+    },
+    {
+      "id": "lusion",
+      "name": "Lusion",
+      "url": "https://www.lusion.co/",
+      "orig_url": "https://www.lusionstudio.com/",
+      "category": "WebGL·沉浸式",
+      "tags": [
+        "创意工作室",
+        "WebGL",
+        "Three.js",
+        "沉浸式",
+        "交互动效"
+      ],
+      "note": "用户指定重点站，已深挖全部 19 个案例 + 技术栈",
+      "analysis": "英国创意技术工作室，把「交互即内容」做到极致——加载进度条即作品、定制十字光标、项目 hover 图片流。技术栈 Astro + Three.js(r158/WebGL2) + 大量自定义 GLSL，自封装 Tween 补间。19 个案例服务 Porsche×Wallpaper* CG 短片、Meta WebXR 空间融合、可口可乐 WebAR、Max Mara、Devin AI(Cognition)、Worldcoin、Opera North 等。"
+    },
+    {
+      "id": "active-theory",
+      "name": "Active Theory",
+      "url": "https://activetheory.net/",
+      "category": "WebGL·沉浸式",
+      "tags": [
+        "WebGL",
+        "沉浸式",
+        "创意工作室"
+      ],
+      "note": "同 Lusion 同档的体验优先工作室",
+      "analysis": "面向顶级品牌的沉浸式 WebGL 工作室，整站本身就是一段实时渲染体验，场景过渡极考究，是与 Lusion 同档的「体验优先」工作室范本。"
+    },
+    {
+      "id": "immersive-garden",
+      "name": "Immersive Garden",
+      "url": "https://immersive-g.com/",
+      "category": "WebGL·沉浸式",
+      "tags": [
+        "WebGL",
+        "沉浸式",
+        "品牌叙事"
+      ],
+      "note": "",
+      "analysis": "WebGL 场景化开场 + 叙事型动效，用实时三维讲品牌故事，是商业 WebGL「沉浸但克制」的代表。"
+    },
+    {
+      "id": "makemepulse",
+      "name": "makemepulse",
+      "url": "https://makemepulse.com/",
+      "category": "WebGL·沉浸式",
+      "tags": [
+        "WebGL",
+        "Three.js",
+        "创意工作室"
+      ],
+      "note": "",
+      "analysis": "Three.js 驱动的全球创意工作室，擅长粒子/流体/动态几何。把实验感握在「不过火」的分寸里，适合当 WebGL 项目的交付参考。"
+    },
+    {
+      "id": "unseen-studio",
+      "name": "Unseen Studio",
+      "url": "https://unseen.co/",
+      "category": "WebGL·沉浸式",
+      "tags": [
+        "WebGL",
+        "品牌",
+        "动态",
+        "工作室"
+      ],
+      "note": "旗下 illoca.unseen.co 项目站已在画廊中",
+      "analysis": "Unseen Studio 主站，WebGL + 电影级动态的品牌叙事，沉稳高级，是「沉浸但克制」的机构官网范本。"
+    },
+    {
+      "id": "obys-agency",
+      "name": "Obys Agency",
+      "url": "https://www.obys.agency/",
+      "category": "创意机构·个性",
+      "tags": [
+        "创意机构",
+        "排版",
+        "动效",
+        "WebGL"
+      ],
+      "note": "",
+      "analysis": "乌克兰 Obys Agency，超大字号 + 克制的交互过渡，排版与动效极具辨识度，Dribbble/Awwwards 常客，机构官网的个性标杆。"
+    },
+    {
+      "id": "resn",
+      "name": "Resn",
+      "url": "https://resn.co.nz/",
+      "category": "创意机构·个性",
+      "tags": [
+        "创意机构",
+        "交互",
+        "幽默",
+        "动效"
+      ],
+      "note": "",
+      "analysis": "新西兰 Resn，全网最会「整活」的创意机构——官网风格随项目轮换、幽默感拉满，每次访问都是新体验，性格 > 炫技的典范。"
+    },
+    {
+      "id": "basement-studio",
+      "name": "Basement Studio",
+      "url": "https://basement.studio/",
+      "category": "创意机构·个性",
+      "tags": [
+        "创意机构",
+        "街头风",
+        "微交互"
+      ],
+      "note": "",
+      "analysis": "「We make cool shit that performs.」暗黑街头风 + 密集微交互，年轻化机构官网的潮流范本。"
+    },
+    {
+      "id": "hello-monday",
+      "name": "Hello Monday",
+      "url": "https://www.hellomonday.com/",
+      "category": "创意机构·个性",
+      "tags": [
+        "创意机构",
+        "动效",
+        "玩趣"
+      ],
+      "note": "",
+      "analysis": "明亮玩趣的创意机构，鼠标跟随互动 + 活泼动效，记忆点强，做「有情绪」的官网参考。"
+    },
+    {
+      "id": "dogstudio",
+      "name": "Dogstudio",
+      "url": "https://dogstudio.co/",
+      "category": "创意机构·个性",
+      "tags": [
+        "创意机构",
+        "复古",
+        "动效"
+      ],
+      "note": "",
+      "analysis": "复古霓虹 + 强运动感的创意工作室，Awwwards 常客，把复古情调做出当代质感。"
+    },
+    {
+      "id": "stink-studios",
+      "name": "Stink Studios",
+      "url": "https://stinkstudios.com/",
+      "category": "创意机构·个性",
+      "tags": [
+        "创意机构",
+        "WebGL",
+        "影视"
+      ],
+      "note": "",
+      "analysis": "WebGL 场景 + 锐利动效的全球创意厂牌，商业创意与技术的平衡范本。"
+    },
+    {
+      "id": "exo-ape",
+      "name": "Exo Ape",
+      "url": "https://www.exoape.com/",
+      "category": "创意机构·个性",
+      "tags": [
+        "创意机构",
+        "品牌",
+        "数字设计"
+      ],
+      "note": "",
+      "analysis": "全球数字设计工作室，动效 + 品牌定位成熟，通用型创意机构的落地范本。"
+    },
+    {
+      "id": "locomotive",
+      "name": "Locomotive",
+      "url": "https://locomotive.ca/",
+      "category": "交互·动效标杆",
+      "tags": [
+        "交互",
+        "平滑滚动",
+        "动效",
+        "工作室"
+      ],
+      "note": "",
+      "analysis": "蒙特利尔网页工作室，「平滑滚动」交互范式的开创者，滚动节奏与惯性物理打磨到极致，无数站点抄它的手感。"
+    },
+    {
+      "id": "cuberto",
+      "name": "Cuberto",
+      "url": "https://cuberto.com/",
+      "category": "交互·动效标杆",
+      "tags": [
+        "交互动效",
+        "流体动效",
+        "UI"
+      ],
+      "note": "",
+      "analysis": "流体形变动效 + 极致顺滑的滚动过渡，数字产品动效的标杆，适合当 UI/交互动效参考。"
+    },
+    {
+      "id": "14islands",
+      "name": "14islands",
+      "url": "https://14islands.com/",
+      "category": "交互·动效标杆",
+      "tags": [
+        "Three.js",
+        "工作室",
+        "匠心",
+        "极简"
+      ],
+      "note": "",
+      "analysis": "斯德哥尔摩匠心工作室，Three.js + 细节至上的手工质感，北欧「克制的精致」代表。"
+    },
+    {
+      "id": "media-monks",
+      "name": "Monks (MediaMonks)",
+      "url": "https://mediamonks.com/",
+      "category": "交互·动效标杆",
+      "tags": [
+        "创意厂牌",
+        "WebGL",
+        "商业项目"
+      ],
+      "note": "原 MediaMonks，现已更名 Monks",
+      "analysis": "全球创意制作巨头，商业级 WebGL/交互动效项目的最高水准样本，看行业「天花板」怎么做。"
+    },
+    {
+      "id": "ueno",
+      "name": "Ueno",
+      "url": "https://ueno.co/",
+      "category": "交互·动效标杆",
+      "tags": [
+        "创意机构",
+        "极简",
+        "产品"
+      ],
+      "note": "",
+      "analysis": "旧金山战略设计与创新机构，极简但每个交互细节质感顶级，服务型机构的精致范本。"
+    },
+    {
+      "id": "bruno-simon",
+      "name": "Bruno Simon",
+      "url": "https://bruno-simon.com/",
+      "category": "个人作品集",
+      "tags": [
+        "Three.js",
+        "作品集",
+        "3D",
+        "游戏"
+      ],
+      "note": "",
+      "analysis": "用 Three.js 做了一个可以「开车逛」的 3D 世界作品集，方向键驾驶。个人站里最出圈的一个，交互即内容。"
+    },
+    {
+      "id": "aristide-benoist",
+      "name": "Aristide Benoist",
+      "url": "https://aristidebenoist.com/",
+      "category": "个人作品集",
+      "tags": [
+        "WebGL",
+        "作品集",
+        "交互实验"
+      ],
+      "note": "",
+      "analysis": "独立开发者的 WebGL 作品集，进去就是纯交互实验，标新立异又克制，个人技术型作品集的标志。"
+    },
+    {
+      "id": "david-heckhoff",
+      "name": "David Heckhoff",
+      "url": "https://david-hckh.com/",
+      "category": "个人作品集",
+      "tags": [
+        "WebGL",
+        "作品集",
+        "着色器"
+      ],
+      "note": "",
+      "analysis": "WebGL 开发者个人站，粒子/着色器实验玩得花，前端创意技术方向的作品集样本。"
+    },
+    {
+      "id": "niccolo-miranda",
+      "name": "Niccolò Miranda",
+      "url": "https://niccolomiranda.com/",
+      "category": "个人作品集",
+      "tags": [
+        "作品集",
+        "滚动叙事",
+        "创意"
+      ],
+      "note": "",
+      "analysis": "「Paper Portfolio」——纸张撕开翻转的卷轴式滚动叙事，创意叙事个人站的标杆。"
     }
   ]
 }
