@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14 11:05",
+  "updated_at": "2026-09-16 14:36",
   "sites": [
     {
       "id": "godly-website",
@@ -31,8 +31,8 @@
         "#aab2bd",
         "#81aceb"
       ],
-      "captured_at": "2026-09-14 11:03",
-      "elapsed_s": 7.3
+      "captured_at": "2026-09-16 14:27",
+      "elapsed_s": 6.4
     },
     {
       "id": "unicorn-studio",
@@ -60,8 +60,8 @@
         "#807b90",
         "#7c5ad3"
       ],
-      "captured_at": "2026-09-14 11:03",
-      "elapsed_s": 4.7
+      "captured_at": "2026-09-16 14:27",
+      "elapsed_s": 2.2
     },
     {
       "id": "reactbits",
@@ -92,8 +92,8 @@
         "#291448",
         "#2d1153"
       ],
-      "captured_at": "2026-09-14 11:03",
-      "elapsed_s": 3.1
+      "captured_at": "2026-09-16 14:27",
+      "elapsed_s": 2.7
     },
     {
       "id": "reactbits-pro",
@@ -129,8 +129,8 @@
         "#0d132a",
         "#1a1040"
       ],
-      "captured_at": "2026-09-14 11:03",
-      "elapsed_s": 3.4
+      "captured_at": "2026-09-16 14:27",
+      "elapsed_s": 2.9
     },
     {
       "id": "huy-phan",
@@ -173,8 +173,8 @@
         "#808080",
         "#d7d7d7"
       ],
-      "captured_at": "2026-09-14 11:03",
-      "elapsed_s": 2.9
+      "captured_at": "2026-09-16 14:28",
+      "elapsed_s": 3.7
     },
     {
       "id": "illoca-unseen",
@@ -210,8 +210,8 @@
         "#3b60c5",
         "#dfd5c0"
       ],
-      "captured_at": "2026-09-14 11:03",
-      "elapsed_s": 2.7
+      "captured_at": "2026-09-16 14:28",
+      "elapsed_s": 3.2
     },
     {
       "id": "merlin-studio",
@@ -240,8 +240,8 @@
       "og_image": "https://merlin.studio/images/merlin-studio.gif",
       "fetch_error": "",
       "colors": [],
-      "captured_at": "2026-09-14 11:03",
-      "elapsed_s": 1.8
+      "captured_at": "2026-09-16 14:28",
+      "elapsed_s": 2.3
     },
     {
       "id": "sadu-media",
@@ -268,8 +268,8 @@
       "og_image": "https://www.sadumedia.com/wp-content/uploads/2025/06/og-image.jpg",
       "fetch_error": "",
       "colors": [],
-      "captured_at": "2026-09-14 11:03",
-      "elapsed_s": 2.9
+      "captured_at": "2026-09-16 14:28",
+      "elapsed_s": 3.4
     },
     {
       "id": "counter-forms",
@@ -288,12 +288,12 @@
       "title": "Counter Forms",
       "description": "Counter Forms is a new typographic venture that seeks to champion young, discursive, Antipodean type designers.",
       "fonts": [
-        "Herbik Black",
+        "Herbik Regular",
+        "Passenger Regular",
+        "Herbik ExtraBold",
         "CounterFormsLoading",
-        "Fugit Regular",
-        "Eyja Regular",
-        "Eyja Regular Italic",
-        "Passenger Regular"
+        "Herbik ExtraBold Italic",
+        "Fugit Bold"
       ],
       "css_colors": [],
       "og_image": "",
@@ -305,8 +305,8 @@
         "#d5d5d5",
         "#c8c8c8"
       ],
-      "captured_at": "2026-09-14 11:03",
-      "elapsed_s": 3.5
+      "captured_at": "2026-09-16 14:28",
+      "elapsed_s": 3.4
     },
     {
       "id": "snohetta",
@@ -339,8 +339,8 @@
         "#110d0a",
         "#0e1113"
       ],
-      "captured_at": "2026-09-14 11:03",
-      "elapsed_s": 4.2
+      "captured_at": "2026-09-16 14:28",
+      "elapsed_s": 5.1
     },
     {
       "id": "mobbin",
@@ -383,8 +383,8 @@
         "#acacac",
         "#757575"
       ],
-      "captured_at": "2026-09-14 11:03",
-      "elapsed_s": 2.6
+      "captured_at": "2026-09-16 14:28",
+      "elapsed_s": 8.7
     },
     {
       "id": "refokus",
@@ -420,8 +420,8 @@
         "#5130ad",
         "#1c1734"
       ],
-      "captured_at": "2026-09-14 11:03",
-      "elapsed_s": 2.2
+      "captured_at": "2026-09-16 14:28",
+      "elapsed_s": 2.6
     },
     {
       "id": "warren-mahoney",
@@ -461,8 +461,8 @@
         "#d36d27",
         "#2d5e2e"
       ],
-      "captured_at": "2026-09-14 11:04",
-      "elapsed_s": 22.9
+      "captured_at": "2026-09-16 14:28",
+      "elapsed_s": 2.9
     },
     {
       "id": "patrick-mason-studio",
@@ -504,8 +504,8 @@
         "#5345ee",
         "#e48f7e"
       ],
-      "captured_at": "2026-09-14 11:04",
-      "elapsed_s": 13.1
+      "captured_at": "2026-09-16 14:28",
+      "elapsed_s": 3.4
     },
     {
       "id": "viens-la",
@@ -541,8 +541,8 @@
         "#e4c889",
         "#c4a8a3"
       ],
-      "captured_at": "2026-09-14 11:04",
-      "elapsed_s": 17.9
+      "captured_at": "2026-09-16 14:28",
+      "elapsed_s": 3.4
     },
     {
       "id": "middle-name-co",
@@ -580,8 +580,170 @@
         "#8998a3",
         "#776656"
       ],
-      "captured_at": "2026-09-14 11:05",
-      "elapsed_s": 23.5
+      "captured_at": "2026-09-16 14:28",
+      "elapsed_s": 3.6
+    },
+    {
+      "id": "astro-dither",
+      "name": "AstroDither — Robert Borghesi LAB",
+      "url": "https://astrodither.robertborghesi.is/",
+      "orig_url": "https://astrodither.robertborghesi.is/",
+      "tags": [
+        "WebGL",
+        "WebGPU",
+        "生成艺术",
+        "创意技术",
+        "动效"
+      ],
+      "note": "来源：自主搜集",
+      "analysis": "音频响应的 Three.js/WebGPU 实时流体模拟 + dithering 实验站，SIGNAL LOST 赛博颓废美学拉满，是「生成艺术 + 创意技术」的极致样本。",
+      "screenshot": "screenshots/astro-dither.png",
+      "title": "ASTRODITHER — Robert Borghesi LAB — [SIGNAL. LOST. BEAUTY. FOUND. DIGITAL. CHAOS.]",
+      "description": "[SIGNAL. LOST. BEAUTY. FOUND. DIGITAL. CHAOS.] — AstroDither, an audio reactive Threejs /WebGPU experiment by Robert Borghesi on dithering and fluid simulation with TSL.",
+      "fonts": [],
+      "css_colors": [
+        "080808"
+      ],
+      "og_image": "https://astrodither.robertborghesi.is/share.jpg",
+      "fetch_error": "",
+      "colors": [],
+      "captured_at": "2026-09-16 14:31",
+      "elapsed_s": 24.1
+    },
+    {
+      "id": "nothing-to-watch",
+      "name": "There's Nothing to Watch",
+      "url": "https://nothing-to-watch.port80.ch/",
+      "orig_url": "https://nothing-to-watch.port80.ch/",
+      "tags": [
+        "数据可视化",
+        "交互",
+        "影视",
+        "创意技术"
+      ],
+      "note": "来源：自主搜集",
+      "analysis": "用 force-directed + voronoi 图可视化上万部电影，拖动探索的交互感极强，是「交互式数据叙事」的范本级站点。",
+      "screenshot": "screenshots/nothing-to-watch.png",
+      "title": "There's nothing to watch",
+      "description": "Discover movies through an interactive visualization. Explore tens of thousands of films in a unique force-directed voronoi diagram interface.",
+      "fonts": [],
+      "css_colors": [
+        "000000"
+      ],
+      "og_image": "https://nothing-to-watch.port80.ch/og.jpg",
+      "fetch_error": "",
+      "colors": [
+        "#d6b365",
+        "#504015",
+        "#683b26",
+        "#d8af6d",
+        "#b78421"
+      ],
+      "captured_at": "2026-09-16 14:29",
+      "elapsed_s": 8.6
+    },
+    {
+      "id": "cathy-dolle",
+      "name": "Cathy Dolle",
+      "url": "https://www.cathydolle.com/",
+      "orig_url": "https://www.cathydolle.com/",
+      "tags": [
+        "作品集",
+        "交互设计",
+        "极简",
+        "个人站"
+      ],
+      "note": "来源：自主搜集",
+      "analysis": "交互设计师 Cathy Dolle 的个人站，极简克制却在字距、留白与动效细节上打磨到位，安静而有质感。",
+      "screenshot": "screenshots/cathy-dolle.png",
+      "title": "Cathy DOLLE - Interactive Designer",
+      "description": "Cathy Dolle is a designer and front-end developer who creates simple, thoughtful digital experiences with a minimalist, detail-driven approach. She enjoys shaping quiet, refined identities and occasionally shares her creative process on Twitch",
+      "fonts": [],
+      "css_colors": [
+        "fff",
+        "000"
+      ],
+      "og_image": "https://cdn.sanity.io/images/7npwh62g/production/d44a83155905b03cb0ae63b31ddd05041505e594-1440x810.webp",
+      "fetch_error": "",
+      "colors": [],
+      "captured_at": "2026-09-16 14:36",
+      "elapsed_s": 21.7
+    },
+    {
+      "id": "dirtverse",
+      "name": "Dirt",
+      "url": "https://dirtverse.co/",
+      "orig_url": "https://dirtverse.co/",
+      "tags": [
+        "创意工作室",
+        "品牌",
+        "态度",
+        "视觉"
+      ],
+      "note": "来源：自主搜集",
+      "analysis": "面向 real-world 品牌的全球创意工作室，官网满是个性与态度、视觉大胆，是「有性格的机构站」风向标。",
+      "screenshot": "screenshots/dirtverse.png",
+      "title": "Dirt | Global Creative Studio for Real World Brands",
+      "description": "Welcome to the Dirtverse. A global creative studio and tangible benchmark for the ambitious. From sick start-ups to cool giants, we build what can’t be ignored.",
+      "fonts": [
+        "sans-serif",
+        "var(--font-family)",
+        "var(--framer-font-family)",
+        "var(--framer-link-font-family",
+        "var(--framer-font-family))",
+        "var(--framer-link-hover-font-family"
+      ],
+      "css_colors": [
+        "000",
+        "fff",
+        "1e1e21",
+        "f2f2ef",
+        "ebff00",
+        "352e22"
+      ],
+      "og_image": "https://framerusercontent.com/assets/L4xbXIJjnluuGYFv5UBiIXSPQ.jpg",
+      "fetch_error": "",
+      "colors": [
+        "#d82458",
+        "#384a58",
+        "#c92469",
+        "#c9b7f4",
+        "#284354"
+      ],
+      "captured_at": "2026-09-16 14:30",
+      "elapsed_s": 14.0
+    },
+    {
+      "id": "harry-atkins",
+      "name": "Harry Atkins",
+      "url": "https://harryjatkins.com/",
+      "orig_url": "https://harryjatkins.com/",
+      "tags": [
+        "作品集",
+        "独立开发者",
+        "前端"
+      ],
+      "note": "来源：自主搜集",
+      "analysis": "独立前端开发者的个人站，简洁利落地展示作品与思考，是「开发者做个人站」的高分样板。",
+      "screenshot": "screenshots/harry-atkins.png",
+      "title": "Harry Atkins — Independent Developer",
+      "description": "Harry Atkins — Independent frontend developer",
+      "fonts": [],
+      "css_colors": [
+        "000000",
+        "fff"
+      ],
+      "og_image": "https://harryjatkins.com/share.jpg",
+      "fetch_error": "",
+      "colors": [
+        "#c6b298",
+        "#c2ad93",
+        "#89b6c6",
+        "#a8bcc4",
+        "#4399b5"
+      ],
+      "captured_at": "2026-09-16 14:30",
+      "elapsed_s": 10.0
     }
   ]
 }

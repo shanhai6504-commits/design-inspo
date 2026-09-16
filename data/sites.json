@@ -131,6 +131,46 @@
       "tags": ["创意机构", "品牌", "传播", "动效"],
       "note": "来源：自主搜集",
       "analysis": "创意传播机构官网，鲜明的品牌调性 + 活泼的动效与排版，代表「创意传播类机构」做官网的潮流做法。"
+    },
+    {
+      "id": "astro-dither",
+      "name": "AstroDither — Robert Borghesi LAB",
+      "url": "https://astrodither.robertborghesi.is/",
+      "tags": ["WebGL", "WebGPU", "生成艺术", "创意技术", "动效"],
+      "note": "来源：自主搜集",
+      "analysis": "音频响应的 Three.js/WebGPU 实时流体模拟 + dithering 实验站，SIGNAL LOST 赛博颓废美学拉满，是「生成艺术 + 创意技术」的极致样本。"
+    },
+    {
+      "id": "nothing-to-watch",
+      "name": "There's Nothing to Watch",
+      "url": "https://nothing-to-watch.port80.ch/",
+      "tags": ["数据可视化", "交互", "影视", "创意技术"],
+      "note": "来源：自主搜集",
+      "analysis": "用 force-directed + voronoi 图可视化上万部电影，拖动探索的交互感极强，是「交互式数据叙事」的范本级站点。"
+    },
+    {
+      "id": "cathy-dolle",
+      "name": "Cathy Dolle",
+      "url": "https://www.cathydolle.com/",
+      "tags": ["作品集", "交互设计", "极简", "个人站"],
+      "note": "来源：自主搜集",
+      "analysis": "交互设计师 Cathy Dolle 的个人站，极简克制却在字距、留白与动效细节上打磨到位，安静而有质感。"
+    },
+    {
+      "id": "dirtverse",
+      "name": "Dirt",
+      "url": "https://dirtverse.co/",
+      "tags": ["创意工作室", "品牌", "态度", "视觉"],
+      "note": "来源：自主搜集",
+      "analysis": "面向 real-world 品牌的全球创意工作室，官网满是个性与态度、视觉大胆，是「有性格的机构站」风向标。"
+    },
+    {
+      "id": "harry-atkins",
+      "name": "Harry Atkins",
+      "url": "https://harryjatkins.com/",
+      "tags": ["作品集", "独立开发者", "前端"],
+      "note": "来源：自主搜集",
+      "analysis": "独立前端开发者的个人站，简洁利落地展示作品与思考，是「开发者做个人站」的高分样板。"
     }
   ]
 }
